@@ -1674,7 +1674,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a291.png", 
- "G": "http://qualitystreamz.guru:25461/live/taylor2776/tod8900/2328.m3u8
+ "G": "http://tv.castawaytv.club:83/51839784/71484553/376804
 ",
  "H": "defaultplayer",
  "I": "false", 
@@ -1694,7 +1694,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a292.png", 
- "G": "http://qualitystreamz.guru:25461/live/taylor2776/tod8900/2329.m3u8
+ "G": "http://tv.castawaytv.club:83/51839784/71484553/376805
 ",
  "H": "defaultplayer",
  "I": "false", 
@@ -1716,8 +1716,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a293.png", 
- "G": "http://qualitystreamz.guru:25461/live/taylor2776/tod8900/2330.m3u8
-",
+ "G": "http://tv.castawaytv.club:83/51839784/71484553/376805",
  "H": "defaultplayer",
  "I": "false", 
  "J": "direct", 
@@ -1736,8 +1735,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a294.png", 
- "G": "http://qualitystreamz.guru:25461/live/taylor2776/tod8900/2331.m3u8
-",
+ "G": "http://tv.castawaytv.club:83/51839784/71484553/376806",
  "H": "defaultplayer",
  "I": "false", 
  "J": "direct", 
@@ -1756,7 +1754,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a295.png", 
- "G": "http://qualitystreamz.guru:25461/live/taylor2776/tod8900/2332.m3u8
+ "G": "http://tv.castawaytv.club:83/51839784/71484553/376807
 ",
  "H": "defaultplayer",
  "I": "false", 
@@ -1775,7 +1773,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a296.png", 
- "G": "http://qualitystreamz.guru:25461/live/taylor2776/tod8900/2333.m3u8
+ "G": "http://tv.castawaytv.club:83/51839784/71484553/376808
 ",
  "H": "defaultplayer",
  "I": "false", 
@@ -1797,7 +1795,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a297.png", 
- "G": "http://qualitystreamz.guru:25461/live/taylor2776/tod8900/2334.m3u8
+ "G": "http://tv.castawaytv.club:83/51839784/71484553/376809
 ",
  "H": "defaultplayer",
  "I": "false", 
@@ -1819,7 +1817,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a298.png", 
- "G": "http://qualitystreamz.guru:25461/live/taylor2776/tod8900/2335.m3u8
+ "G": "http://tv.castawaytv.club:83/51839784/71484553/376810
 ",
  "H": "defaultplayer",
  "I": "false", 
