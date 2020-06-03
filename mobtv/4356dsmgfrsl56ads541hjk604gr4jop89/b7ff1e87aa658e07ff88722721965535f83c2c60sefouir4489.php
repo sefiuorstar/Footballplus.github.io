@@ -385,429 +385,27 @@
 
 
 
-{ "A": "8",
- "B": "Bein FHD 1",
- "C": "1",
- "D":"SPORTS TV",
- "E": "SPORTS TV", 
- "F": "http://wssfree.com/WSSv2.3/images/be1.png", 
- "G": "http://54k.top:8000/live/android/hytmmnb/4.m3u8
-",
-  "H": "defaultplayer",
- "I": "false", 
- "J": "direct", 
- "K": "", 
- "L": "",
- "M": "", "R":"",
-"N":"VLC/3.0.0-git LibVLC/3.0.0-git",
-"O":"",
-"P":0},
-
- 
-
- 
- 
- { "A": "9",
- "B": "Bein FHD 2",
- "C": "1",
- "D":"SPORTS TV",
- "E": "SPORTS TV", 
- "F": "http://wssfree.com/WSSv2.3/images/be2.png", 
- "G": "http://54k.top:8000/live/android/hytmmnb/3.m3u8
-",
-  "H": "defaultplayer",
- "I": "false", 
- "J": "direct", 
- "K": "", 
- "L": "",
- "M": "", "R":"",
-"N":"VLC/3.0.0-git LibVLC/3.0.0-git",
-"O":"",
-"P":0},
-
- 
-
  
  
  
- 
- 
- 
-{ "A": "10",
- "B": "Bein FHD 3",
- "C": "1",
- "D":"SPORTS TV",
- "E": "SPORTS TV", 
- "F": "http://wssfree.com/WSSv2.3/images/be3.png", 
-"G": "http://54k.top:8000/live/android/hytmmnb/2.m3u8
-",
-  "H": "defaultplayer",
- "I": "false", 
- "J": "direct", 
- "K": "", 
- "L": "",
- "M": "", "R":"",
-"N":"VLC/3.0.0-git LibVLC/3.0.0-git",
-"O":"",
-"P":0},
-
- 
-
-
-
-
-
-{ "A": "11",
- "B": "Bein FHD 4",
- "C": "1",
- "D":"SPORTS TV",
- "E": "SPORTS TV", 
- "F": "http://wssfree.com/WSSv2.3/images/be4.png", 
-"G": "http://54k.top:8000/live/android/hytmmnb/52.m3u8
-",
-  "H": "defaultplayer",
- "I": "false", 
- "J": "direct", 
- "K": "", 
- "L": "",
- "M": "", "R":"",
-"N":"VLC/3.0.0-git LibVLC/3.0.0-git",
-"O":"",
-"P":0},
-
- 
- 
-
-
- { "A": "12",
-  "B": "Bein FHD 5",
- "C": "1",
- "D":"SPORTS TV",
- "E": "SPORTS TV", 
- "F": "http://wssfree.com/WSSv2.3/images/be5.png", 
- "G": "http://54k.top:8000/live/android/hytmmnb/44.m3u8
-",
-  "H": "defaultplayer",
- "I": "false", 
- "J": "direct", 
- "K": "", 
- "L": "",
- "M": "", "R":"",
-"N":"VLC/3.0.0-git LibVLC/3.0.0-git",
-"O":"",
-"P":0},
-
- 
- 
-  
-  
-  
-
-{ "A": "13",
- "B": "Bein FHD 6",
- "C": "1",
- "D":"SPORTS TV",
- "E": "SPORTS TV", 
- "F": "http://wssfree.com/WSSv2.3/images/be6.png", 
- "G": "http://54k.top:8000/live/android/hytmmnb/50.m3u8
-",
-  "H": "defaultplayer",
- "I": "false", 
- "J": "direct", 
- "K": "", 
- "L": "",
- "M": "", "R":"",
-"N":"VLC/3.0.0-git LibVLC/3.0.0-git",
-"O":"",
-"P":0},
-  
-  
-  
-  
-
-
-
-
-
-
-
- {"A":"14","B":"Bein 7 FHD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"http://wssfree.com/WSSv2.3/images/be7.png", "G": "http://54k.top:8000/live/android/hytmmnb/42.m3u8
-",
-  "H": "defaultplayer",
- "I": "false", 
- "J": "direct", 
- "K": "", 
- "L": "",
- "M": "", "R":"",
-"N":"VLC/3.0.0-git LibVLC/3.0.0-git",
-"O":"",
-"P":0},
-
-
- {"A":"15","B":"Bein 8 FHD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"http://wssfree.com/WSSv2.3/images/be8.png", "G": "http://54k.top:8000/live/android/hytmmnb/41.m3u8
-",
- "H": "defaultplayer",
- "I": "false", 
- "J": "direct", 
- "K": "", 
- "L": "",
- "M": "", "R":"",
-"N":"VLC/3.0.0-git LibVLC/3.0.0-git",
-"O":"",
-"P":0},
- 
- {"A":"16","B":"Bein 9 FHD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"http://wssfree.com/WSSv2.3/images/be9.png", "G": "http://54k.top:8000/live/android/hytmmnb/40.m3u8
-",
- "H": "defaultplayer",
- "I": "false", 
- "J": "direct", 
- "K": "", 
- "L": "",
- "M": "", "R":"",
-"N":"VLC/3.0.0-git LibVLC/3.0.0-git",
-"O":"",
-"P":0},
- 
- 
- 
- {"A":"17","B":"Bein 10 FHD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"http://wssfree.com/WSSv2.3/images/be10.png", "G": "http://54k.top:8000/live/android/hytmmnb/46.m3u8
-",
- "H": "defaultplayer",
- "I": "false", 
- "J": "direct", 
- "K": "", 
- "L": "",
- "M": "", "R":"",
-"N":"VLC/3.0.0-git LibVLC/3.0.0-git",
-"O":"",
-"P":0},
- 
-
-
-
-
-
-{ "A": "8",
- "B": "Bein HD 1",
- "C": "1",
- "D":"SPORTS TV",
- "E": "SPORTS TV", 
- "F": "http://wssfree.com/WSSv2.3/images/be1.png", 
- "G": "http://kooralive247.com/cha/embed.php?stream=BeinSports1
-",
-  "H": "defaultplayer",
- "I": "false", 
- "J": "graphm3u8", 
- "K": "", 
- "L": "",
- "M": "", "R":"",
-"N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
-"O":"",
-"P":0},
-
- 
-
- 
- 
- { "A": "9",
- "B": "Bein HD 2",
- "C": "1",
- "D":"SPORTS TV",
- "E": "SPORTS TV", 
- "F": "http://wssfree.com/WSSv2.3/images/be2.png", 
- "G": "http://kooralive247.com/cha/embed.php?stream=BeinSports2
-",
-  "H": "defaultplayer",
- "I": "false", 
- "J": "graphm3u8", 
- "K": "", 
- "L": "",
- "M": "", "R":"",
-"N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
-"O":"",
-"P":0},
-
- 
-
- 
- 
- 
- 
- 
- 
-{ "A": "10",
- "B": "Bein HD 3",
- "C": "1",
- "D":"SPORTS TV",
- "E": "SPORTS TV", 
- "F": "http://wssfree.com/WSSv2.3/images/be3.png", 
-"G": "http://kooralive247.com/cha/embed.php?stream=BeinSports3
-",
-  "H": "defaultplayer",
- "I": "false", 
- "J": "graphm3u8", 
- "K": "", 
- "L": "",
- "M": "", "R":"",
-"N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
-"O":"",
-"P":0},
-
- 
-
-
-
-
-
-{ "A": "11",
- "B": "Bein HD 4",
- "C": "1",
- "D":"SPORTS TV",
- "E": "SPORTS TV", 
- "F": "http://wssfree.com/WSSv2.3/images/be4.png", 
-"G": "http://kooralive247.com/cha/embed.php?stream=BeinSports4
-",
-  "H": "defaultplayer",
- "I": "false", 
- "J": "graphm3u8", 
- "K": "", 
- "L": "",
- "M": "", "R":"",
-"N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
-"O":"",
-"P":0},
-
- 
- 
-
-
- { "A": "12",
-  "B": "Bein HD 5",
- "C": "1",
- "D":"SPORTS TV",
- "E": "SPORTS TV", 
- "F": "http://wssfree.com/WSSv2.3/images/be5.png", 
- "G": "http://kooralive247.com/cha/embed.php?stream=BeinSports5
-",
-  "H": "defaultplayer",
- "I": "false", 
- "J": "graphm3u8", 
- "K": "", 
- "L": "",
- "M": "", "R":"",
-"N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
-"O":"",
-"P":0},
-
- 
- 
-  
-  
-  
-
-{ "A": "13",
- "B": "Bein HD 6",
- "C": "1",
- "D":"SPORTS TV",
- "E": "SPORTS TV", 
- "F": "http://wssfree.com/WSSv2.3/images/be6.png", 
- "G": "http://kooralive247.com/cha/embed.php?stream=BeinSports6
-",
-  "H": "defaultplayer",
- "I": "false", 
- "J": "graphm3u8", 
- "K": "", 
- "L": "",
- "M": "", "R":"",
-"N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
-"O":"",
-"P":0},
-  
-  
-  
-  
-
-
-
-
-
-
-
- {"A":"14","B":"Bein 7 HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"http://wssfree.com/WSSv2.3/images/be7.png", "G": "http://kooralive247.com/cha/embed.php?stream=BeinSports7
-",
-  "H": "defaultplayer",
- "I": "false", 
- "J": "graphm3u8", 
- "K": "", 
- "L": "",
- "M": "", "R":"",
-"N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
-"O":"",
-"P":0},
-
-
- {"A":"15","B":"Bein 8 HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"http://wssfree.com/WSSv2.3/images/be8.png", "G": "http://kooralive247.com/cha/embed.php?stream=BeinSports8
-",
- "H": "defaultplayer",
- "I": "false", 
- "J": "graphm3u8", 
- "K": "", 
- "L": "",
- "M": "", "R":"",
-"N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
-"O":"",
-"P":0},
- 
- {"A":"16","B":"Bein 9 HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"http://wssfree.com/WSSv2.3/images/be9.png", "G": "http://kooralive247.com/cha/embed.php?stream=BeinSports9
-",
- "H": "defaultplayer",
- "I": "false", 
- "J": "graphm3u8", 
- "K": "", 
- "L": "",
- "M": "", "R":"",
-"N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
-"O":"",
-"P":0},
- 
- 
- 
- {"A":"17","B":"Bein 10 HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"http://wssfree.com/WSSv2.3/images/be10.png", "G": "http://kooralive247.com/cha/embed.php?stream=BeinSports10
-",
- "H": "defaultplayer",
- "I": "false", 
- "J": "graphm3u8", 
- "K": "", 
- "L": "",
- "M": "", "R":"",
-"N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
-"O":"",
-"P":0},
- 
- 
- 
- 
- 
- 
- 
-
 { "A": "8",
  "B": "(AR) Bein Sports HD 1",
  "C": "1",
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "http://wssfree.com/WSSv2.3/images/be1.png", 
- "G": "http://beinkoora.net/ch/beinsport1.php
+ "G": "http://138.201.187.8/upload/images/logoA01.m3u8
 ",
-  "H": "defaultplayer",
+"H": "defaultplayer",
  "I": "false", 
- "J": "graphm3u8", 
+ "J": "direct", 
  "K": "", 
  "L": "",
- "M": "", "R":"",
-"N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
-"O":"",
-"P":0},
+ "M": "", 
+ "R":"{\"Referer\":\"http://qanat.tv/\"}",
+ "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "",
+ "P": 0 },
+ 
 
 
  
@@ -820,17 +418,18 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "http://wssfree.com/WSSv2.3/images/be2.png", 
- "G": "http://beinkoora.net/ch/beinsport2.php
+ "G": "http://138.201.187.8/upload/images/logoA02.m3u8
 ",
-  "H": "defaultplayer",
+"H": "defaultplayer",
  "I": "false", 
- "J": "graphm3u8", 
+ "J": "direct", 
  "K": "", 
  "L": "",
- "M": "", "R":"",
-"N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
-"O":"",
-"P":0},
+ "M": "", 
+ "R":"{\"Referer\":\"http://qanat.tv/\"}",
+ "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "",
+ "P": 0 },
+ 
 
  
 
@@ -846,17 +445,18 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "http://wssfree.com/WSSv2.3/images/be3.png", 
-"G": "http://beinkoora.net/ch/beinsport3.php
+"G": "http://138.201.187.8/upload/images/logoA03.m3u8
 ",
-  "H": "defaultplayer",
+"H": "defaultplayer",
  "I": "false", 
- "J": "graphm3u8", 
+ "J": "direct", 
  "K": "", 
  "L": "",
- "M": "", "R":"",
-"N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
-"O":"",
-"P":0},
+ "M": "", 
+ "R":"{\"Referer\":\"http://qanat.tv/\"}",
+ "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "",
+ "P": 0 },
+ 
 
  
 
@@ -870,17 +470,18 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "http://wssfree.com/WSSv2.3/images/be4.png", 
-"G": "http://beinkoora.net/ch/beinsport4.php
+"G": "http://138.201.187.8/upload/images/logoA04.m3u8
 ",
-  "H": "defaultplayer",
+"H": "defaultplayer",
  "I": "false", 
- "J": "graphm3u8", 
+ "J": "direct", 
  "K": "", 
  "L": "",
- "M": "", "R":"",
-"N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
-"O":"",
-"P":0},
+ "M": "", 
+ "R":"{\"Referer\":\"http://qanat.tv/\"}",
+ "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "",
+ "P": 0 },
+ 
 
  
  
@@ -892,17 +493,18 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "http://wssfree.com/WSSv2.3/images/be5.png", 
- "G": "http://beinkoora.net/ch/beinsport5.php
+ "G": "http://138.201.187.8/upload/images/logoA05.m3u8
 ",
-  "H": "defaultplayer",
+"H": "defaultplayer",
  "I": "false", 
- "J": "graphm3u8", 
+ "J": "direct", 
  "K": "", 
  "L": "",
- "M": "", "R":"",
-"N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
-"O":"",
-"P":0},
+ "M": "", 
+ "R":"{\"Referer\":\"http://qanat.tv/\"}",
+ "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "",
+ "P": 0 },
+ 
 
  
  
@@ -916,172 +518,17 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "http://wssfree.com/WSSv2.3/images/be6.png", 
- "G": "http://beinkoora.net/ch/beinsport6.php
+ "G": "http://138.201.187.8/upload/images/logoA06.m3u8
 ",
-  "H": "defaultplayer",
- "I": "false", 
- "J": "graphm3u8", 
- "K": "", 
- "L": "",
- "M": "", "R":"",
-"N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
-"O":"",
-"P":0},
-  
-  
-  
-  
-
-
-
-
-
-
-
- {"A":"14","B":"(AR) Bein Sports HD 7","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"http://wssfree.com/WSSv2.3/images/be7.png", "G": "http://beinkoora.net/ch/beinsport7.php
-",
-  "H": "defaultplayer",
- "I": "false", 
- "J": "graphm3u8", 
- "K": "", 
- "L": "",
- "M": "", "R":"",
-"N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
-"O":"",
-"P":0},
-
-
- {"A":"15","B":"(AR) Bein Sports HD 8","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"http://wssfree.com/WSSv2.3/images/be8.png", "G": "http://beinkoora.net/ch/beinsport8.php
-",
- "H": "defaultplayer",
- "I": "false", 
- "J": "graphm3u8", 
- "K": "", 
- "L": "",
- "M": "", "R":"",
-"N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
-"O":"",
-"P":0},
- 
- {"A":"16","B":"(AR) Bein Sports HD 9","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"http://wssfree.com/WSSv2.3/images/be9.png", "G": "http://beinkoora.net/ch/beinsport9.php
-",
- "H": "defaultplayer",
- "I": "false", 
- "J": "graphm3u8", 
- "K": "", 
- "L": "",
- "M": "", "R":"",
-"N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
-"O":"",
-"P":0},
- 
- 
- 
- {"A":"17","B":"(AR) Bein Sports HD 10","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"http://wssfree.com/WSSv2.3/images/be10.png", "G": "http://beinkoora.net/ch/beinsport10.php
-",
- "H": "defaultplayer",
- "I": "false", 
- "J": "graphm3u8", 
- "K": "", 
- "L": "",
- "M": "", "R":"",
-"N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
-"O":"",
-"P":0},
- 
- 
-  
-  
-  
-  
-
-
-
-
- 
-
-
-
-{ "A": "8",
- "B": "(AR) Bein Sports HD 11",
- "C": "1",
- "D":"SPORTS TV",
- "E": "SPORTS TV", 
- "F": "http://wssfree.com/WSSv2.3/images/be11.png", 
- "G": "http://dreamsat.iksa.cc:2086/rediptv0dreamsat/XP847wvHuv/2797
-",
-  "H": "defaultplayer",
+"H": "defaultplayer",
  "I": "false", 
  "J": "direct", 
- "K": "", 
- "L": "",
- "M": "", "R":"",
-"N":"Mozilla/5.0 (Linux; Android 9; Redmi Note 8 Pro Build/PPR1.180610.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/80.0.3987.117 Mobile Safari/537.36",
-"O":"",
-"P":0},
-
-
-
-
-
-{ "A": "8",
- "B": "(AR) Bein Sports HD 12",
- "C": "1",
- "D":"SPORTS TV",
- "E": "SPORTS TV", 
- "F": "http://wssfree.com/WSSv2.3/images/be12.png", 
- "G": "http://dreamsat.iksa.cc:2086/rediptv0dreamsat/XP847wvHuv/2798
-",
-  "H": "defaultplayer",
- "I": "false", 
- "J": "direct", 
- "K": "", 
- "L": "",
- "M": "", "R":"",
-"N":"Mozilla/5.0 (Linux; Android 9; Redmi Note 8 Pro Build/PPR1.180610.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/80.0.3987.117 Mobile Safari/537.36",
-"O":"",
-"P":0},
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
- 
- { "A": "8",
- "B": "Al Fajer Tv",
- "C": "1",
- "D":"SPORTS TV",
- "E": "SPORTS TV", 
- "F": "https://alfajertv.com/style/atyaf/assets/images/logo.png", 
- "G": "https://raw.githubusercontent.com/sefiuorstar/vlcplayer/master/fde342dsejg321hklidzaf4gT65fas54-de./Ezfddgfrdefsaqtgdza321hu50f4hd5dse.m3u  
-",
- "H": "defaultplayer",
- "I": "false", 
- "J": "graphm3u8", 
  "K": "", 
  "L": "",
  "M": "", 
- "R":"",
- "N": "com.google.android.exoplayer2.core/2.4 (Linux;Android 9) ExoPlayerLib/2.10.2", "O": "",
+ "R":"{\"Referer\":\"http://qanat.tv/\"}",
+ "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "",
  "P": 0 },
- 
  
 
 
@@ -1104,7 +551,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
 "F":"https://sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png",
-"G":"https://vergol.com/aplicacion/app21/deportes/mlaligaacos.php",
+"G":"https://vergol.com/aplicacion/app21/deportes/mlaliga.php",
 "H":"defaultplayer",
 "I":"false",
 "J":"staticpattern",
@@ -1128,7 +575,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
 "F":"https://sport-tv-guide.live/images/stations/a1460.png",
-"G":"https://vergol.com/aplicacion/app21/deportes/campeoneso.php",
+"G":"https://vergol.com/aplicacion/app21/deportes/campeones.php",
 "H":"defaultplayer",
 "I":"false",
 "J":"staticpattern",
@@ -1150,7 +597,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
 "F":"https://sport-tv-guide.live/images/stations/a364.png",
-"G":"https://vergol.com/aplicacion/app21/deportes/mdeportes1t.php",
+"G":"https://vergol.com/aplicacion/app21/deportes/mdeportes.php",
 "H":"defaultplayer",
 "I":"false",
 "J":"staticpattern",
@@ -1172,7 +619,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
 "F":"https://sport-tv-guide.live/images/stations/a368.png",
-"G":"https://vergol.com/aplicacion/app21/deportes/golf1.php",
+"G":"https://vergol.com/aplicacion/app21/deportes/golf.php",
 "H":"defaultplayer",
 "I":"false",
 "J":"staticpattern",
@@ -1192,7 +639,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
 "F":"https://sport-tv-guide.live/images/stations/a1601.png",
-"G":"https://vergol.com/aplicacion/app21/deportes/vamos1.php",
+"G":"https://vergol.com/aplicacion/app21/deportes/vamos.php",
 "H":"defaultplayer",
 "I":"false",
 "J":"staticpattern",
@@ -1213,7 +660,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
 "F":"https://sport-tv-guide.live/images/stations/a369.png",
-"G":"https://vergol.com/aplicacion/app21/deportes/goltv1.php",
+"G":"https://vergol.com/aplicacion/app21/deportes/goltv.php",
 "H":"defaultplayer",
 "I":"false",
 "J":"staticpattern",
