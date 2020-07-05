@@ -28,21 +28,20 @@
 
 
 
-{
                 "A": "3501",
                 "B": "Live 1",
                 "C": "1",
                  "D": "Live In Event",
                 "E": "Live In Event",
                 "F": "https://pbs.twimg.com/profile_images/536131063039684608/rhuQuIgp_400x400.jpeg",
-                "G": "http://hdstreams.club/page/ch4.php",
+                "G": "http://hdstreams.club/page/ch1.php",
                 "H": "defaultplayer",
                 "I": "false",
                 "J": "graphm3u8",
                 "K": "",
                 "L": "",
                 "M": "",
-                "R": "{\"Referer\":\"http://hdstreams.club/hd/ch4.php\"}",
+                "R": "{\"Referer\":\"http://hdstreams.club/hd/ch1.php\"}",
                 "N": "Mozilla/5.0 (Linux; Android 9; Redmi Note 8 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.116 Mobile Safari/537.36",
                 "O": "24.04.2017 20:03:40",
                 "P": 0
@@ -65,14 +64,14 @@
                 "D": "Live In Event",
                 "E": "Live In Event",
                 "F": "https://pbs.twimg.com/profile_images/536131063039684608/rhuQuIgp_400x400.jpeg",
-                "G": "http://cdn2.hdstreams.club/live/ch2/index.m3u8",
+                "G": "http://hdstreams.club/page/ch2.php",
                 "H": "defaultplayer",
                 "I": "false",
-                "J": "direct",
+                "J": "graphm3u8",
                 "K": "",
                 "L": "",
                 "M": "",
-                "R": "{\"Referer\":\"http://hdstreams.club/page/ch2.php\"}",
+                "R": "{\"Referer\":\"http://hdstreams.club/hd/ch2.php\"}",
                 "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
                 "O": "24.04.2017 20:03:40",
                 "P": 0
@@ -92,14 +91,14 @@
                 "D": "Live In Event",
                 "E": "Live In Event",
                 "F": "https://pbs.twimg.com/profile_images/536131063039684608/rhuQuIgp_400x400.jpeg",
-                "G": "http://cdn2.hdstreams.club/live/ch3/index.m3u8",
+                "G": "http://hdstreams.club/page/ch3.php",
                 "H": "defaultplayer",
                 "I": "false",
-                "J": "direct",
+                "J": "graphm3u8",
                 "K": "",
                 "L": "",
                 "M": "",
-                "R": "{\"Referer\":\"http://hdstreams.club/page/ch3.php\"}",
+                "R": "{\"Referer\":\"http://hdstreams.club/hd/ch3.php\"}",
                 "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
                 "O": "24.04.2017 20:03:40",
                 "P": 0
@@ -124,14 +123,14 @@
                 "D": "Live In Event",
                 "E": "Live In Event",
                 "F": "https://pbs.twimg.com/profile_images/536131063039684608/rhuQuIgp_400x400.jpeg",
-                "G": "http://cdn2.hdstreams.club/live/ch4/index.m3u8",
+                "G": "http://hdstreams.club/page/ch4.php",
                 "H": "defaultplayer",
                 "I": "false",
-                "J": "direct",
+                "J": "graphm3u8",
                 "K": "",
                 "L": "",
                 "M": "",
-                "R": "{\"Referer\":\"http://hdstreams.club/page/ch4.php\"}",
+                "R": "{\"Referer\":\"http://hdstreams.club/hd/ch4.php\"}",
                 "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
                 "O": "24.04.2017 20:03:40",
                 "P": 0
@@ -155,14 +154,14 @@
                 "D": "Live In Event",
                 "E": "Live In Event",
                 "F": "https://pbs.twimg.com/profile_images/536131063039684608/rhuQuIgp_400x400.jpeg",
-                "G": "http://cdn2.hdstreams.club/live/ch5/index.m3u8",
+                "G": "http://hdstreams.club/page/ch5.php",
                 "H": "defaultplayer",
                 "I": "false",
-                "J": "direct",
+                "J": "graphm3u8",
                 "K": "",
                 "L": "",
                 "M": "",
-                "R": "{\"Referer\":\"http://hdstreams.club/page/ch5.php\"}",
+                "R": "{\"Referer\":\"http://hdstreams.club/hd/ch5.php\"}",
                 "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
                 "O": "24.04.2017 20:03:40",
                 "P": 0
@@ -186,14 +185,14 @@
                 "D": "Live In Event",
                 "E": "Live In Event",
                 "F": "https://pbs.twimg.com/profile_images/536131063039684608/rhuQuIgp_400x400.jpeg",
-                "G": "http://cdn2.hdstreams.club/live/ch6/index.m3u8",
+                "G": "http://hdstreams.club/page/ch6.php",
                 "H": "defaultplayer",
                 "I": "false",
-                "J": "direct",
+                "J": "graphm3u8",
                 "K": "",
                 "L": "",
                 "M": "",
-                "R": "{\"Referer\":\"http://hdstreams.club/page/ch6.php\"}",
+                "R": "{\"Referer\":\"http://hdstreams.club/hd/ch6.php\"}",
                 "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
                 "O": "24.04.2017 20:03:40",
                 "P": 0
@@ -213,14 +212,14 @@
                 "D": "Live In Event",
                 "E": "Live In Event",
                 "F": "https://pbs.twimg.com/profile_images/536131063039684608/rhuQuIgp_400x400.jpeg",
-                "G": "http://cdn2.hdstreams.club/live/ch7/index.m3u8",
+                "G": "http://hdstreams.club/page/ch7.php",
                 "H": "defaultplayer",
                 "I": "false",
-                "J": "direct",
+                "J": "graphm3u8",
                 "K": "",
                 "L": "",
                 "M": "",
-                "R": "{\"Referer\":\"http://hdstreams.club/page/ch7.php\"}",
+                "R": "{\"Referer\":\"http://hdstreams.club/hd/ch7.php\"}",
                 "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
                 "O": "24.04.2017 20:03:40",
                 "P": 0
@@ -239,14 +238,142 @@
                 "D": "Live In Event",
                 "E": "Live In Event",
                 "F": "https://pbs.twimg.com/profile_images/536131063039684608/rhuQuIgp_400x400.jpeg",
-                "G": "http://cdn2.hdstreams.club/live/ch8/index.m3u8",
+                "G": "http://hdstreams.club/page/ch8.php",
                 "H": "defaultplayer",
                 "I": "false",
-                "J": "direct",
+                "J": "graphm3u8",
                 "K": "",
                 "L": "",
                 "M": "",
-                "R": "{\"Referer\":\"http://hdstreams.club/page/ch8.php\"}",
+                "R": "{\"Referer\":\"http://hdstreams.club/hd/ch8.php\"}",
+                "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+             
+            }, 
+
+
+
+
+
+{
+                "A": "3501",
+                "B": "Live 9",
+                "C": "1",
+                "D": "Live In Event",
+                "E": "Live In Event",
+                "F": "https://pbs.twimg.com/profile_images/536131063039684608/rhuQuIgp_400x400.jpeg",
+                "G": "http://hdstreams.club/page/ch9.php",
+                "H": "defaultplayer",
+                "I": "false",
+                "J": "graphm3u8",
+                "K": "",
+                "L": "",
+                "M": "",
+                "R": "{\"Referer\":\"http://hdstreams.club/hd/ch9.php\"}",
+                "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+             
+            }, 
+
+
+
+
+
+
+{
+                "A": "3501",
+                "B": "Live 10",
+                "C": "1",
+                "D": "Live In Event",
+                "E": "Live In Event",
+                "F": "https://pbs.twimg.com/profile_images/536131063039684608/rhuQuIgp_400x400.jpeg",
+                "G": "http://hdstreams.club/page/ch10.php",
+                "H": "defaultplayer",
+                "I": "false",
+                "J": "graphm3u8",
+                "K": "",
+                "L": "",
+                "M": "",
+                "R": "{\"Referer\":\"http://hdstreams.club/hd/ch10.php\"}",
+                "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+             
+            }, 
+
+
+
+
+
+
+
+{
+                "A": "3501",
+                "B": "Live 11",
+                "C": "1",
+                "D": "Live In Event",
+                "E": "Live In Event",
+                "F": "https://pbs.twimg.com/profile_images/536131063039684608/rhuQuIgp_400x400.jpeg",
+                "G": "http://hdstreams.club/page/ch11.php",
+                "H": "defaultplayer",
+                "I": "false",
+                "J": "graphm3u8",
+                "K": "",
+                "L": "",
+                "M": "",
+                "R": "{\"Referer\":\"http://hdstreams.club/hd/ch11.php\"}",
+                "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+             
+            }, 
+
+
+
+
+{
+                "A": "3501",
+                "B": "Live 12",
+                "C": "1",
+                "D": "Live In Event",
+                "E": "Live In Event",
+                "F": "https://pbs.twimg.com/profile_images/536131063039684608/rhuQuIgp_400x400.jpeg",
+                "G": "http://hdstreams.club/page/ch12.php",
+                "H": "defaultplayer",
+                "I": "false",
+                "J": "graphm3u8",
+                "K": "",
+                "L": "",
+                "M": "",
+                "R": "{\"Referer\":\"http://hdstreams.club/hd/ch12.php\"}",
+                "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+             
+            }, 
+
+
+
+
+
+
+{
+                "A": "3501",
+                "B": "Live 13",
+                "C": "1",
+                "D": "Live In Event",
+                "E": "Live In Event",
+                "F": "https://pbs.twimg.com/profile_images/536131063039684608/rhuQuIgp_400x400.jpeg",
+                "G": "http://hdstreams.club/page/ch13.php",
+                "H": "defaultplayer",
+                "I": "false",
+                "J": "graphm3u8",
+                "K": "",
+                "L": "",
+                "M": "",
+                "R": "{\"Referer\":\"http://hdstreams.club/hd/ch13.php\"}",
                 "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
                 "O": "24.04.2017 20:03:40",
                 "P": 0
