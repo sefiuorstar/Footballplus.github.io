@@ -387,25 +387,25 @@
 
  
  
- 
+
+
 { "A": "8",
  "B": "(AR) Bein Sports HD 1",
  "C": "1",
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "http://wssfree.com/WSSv2.3/images/be1.png", 
- "G": "http://138.201.187.8/upload/images/logoA01.m3u8
+ "G": "http://beinconnect.us/?id=1&srv=srv1
 ",
-"H": "defaultplayer",
+  "H": "defaultplayer",
  "I": "false", 
- "J": "direct", 
+ "J": "graphm3u8", 
  "K": "", 
  "L": "",
- "M": "", 
- "R":"{\"Referer\":\"http://qanat.tv/\"}",
- "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "",
- "P": 0 },
- 
+ "M": "", "R":"",
+"N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+"O":"",
+"P":0},
 
 
  
@@ -418,18 +418,17 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "http://wssfree.com/WSSv2.3/images/be2.png", 
- "G": "http://138.201.187.8/upload/images/logoA02.m3u8
+ "G": "http://beinconnect.us/?id=2&srv=srv1
 ",
-"H": "defaultplayer",
+  "H": "defaultplayer",
  "I": "false", 
- "J": "direct", 
+ "J": "graphm3u8", 
  "K": "", 
  "L": "",
- "M": "", 
- "R":"{\"Referer\":\"http://qanat.tv/\"}",
- "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "",
- "P": 0 },
- 
+ "M": "", "R":"",
+"N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+"O":"",
+"P":0},
 
  
 
@@ -445,18 +444,17 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "http://wssfree.com/WSSv2.3/images/be3.png", 
-"G": "http://138.201.187.8/upload/images/logoA03.m3u8
+"G": "http://beinconnect.us/?id=3&srv=srv1
 ",
-"H": "defaultplayer",
+  "H": "defaultplayer",
  "I": "false", 
- "J": "direct", 
+ "J": "graphm3u8", 
  "K": "", 
  "L": "",
- "M": "", 
- "R":"{\"Referer\":\"http://qanat.tv/\"}",
- "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "",
- "P": 0 },
- 
+ "M": "", "R":"",
+"N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+"O":"",
+"P":0},
 
  
 
@@ -470,18 +468,17 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "http://wssfree.com/WSSv2.3/images/be4.png", 
-"G": "http://138.201.187.8/upload/images/logoA04.m3u8
+"G": "http://beinconnect.us/?id=4&srv=srv1
 ",
-"H": "defaultplayer",
+  "H": "defaultplayer",
  "I": "false", 
- "J": "direct", 
+ "J": "graphm3u8", 
  "K": "", 
  "L": "",
- "M": "", 
- "R":"{\"Referer\":\"http://qanat.tv/\"}",
- "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "",
- "P": 0 },
- 
+ "M": "", "R":"",
+"N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+"O":"",
+"P":0},
 
  
  
@@ -493,18 +490,17 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "http://wssfree.com/WSSv2.3/images/be5.png", 
- "G": "http://138.201.187.8/upload/images/logoA05.m3u8
+ "G": "http://beinconnect.us/?id=5&srv=srv1
 ",
-"H": "defaultplayer",
+  "H": "defaultplayer",
  "I": "false", 
- "J": "direct", 
+ "J": "graphm3u8", 
  "K": "", 
  "L": "",
- "M": "", 
- "R":"{\"Referer\":\"http://qanat.tv/\"}",
- "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "",
- "P": 0 },
- 
+ "M": "", "R":"",
+"N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+"O":"",
+"P":0},
 
  
  
@@ -518,20 +514,79 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "http://wssfree.com/WSSv2.3/images/be6.png", 
- "G": "http://138.201.187.8/upload/images/logoA06.m3u8
+ "G": "http://beinconnect.us/?id=6&srv=srv1
 ",
-"H": "defaultplayer",
+  "H": "defaultplayer",
  "I": "false", 
- "J": "direct", 
+ "J": "graphm3u8", 
  "K": "", 
  "L": "",
- "M": "", 
- "R":"{\"Referer\":\"http://qanat.tv/\"}",
- "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "",
- "P": 0 },
+ "M": "", "R":"",
+"N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+"O":"",
+"P":0},
+  
+  
+  
+  
+
+
+
+
+
+
+
+ {"A":"14","B":"(AR) Bein Sports HD 7","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"http://wssfree.com/WSSv2.3/images/be7.png", "G": "http://beinconnect.us/?id=7&srv=srv1
+",
+  "H": "defaultplayer",
+ "I": "false", 
+ "J": "graphm3u8", 
+ "K": "", 
+ "L": "",
+ "M": "", "R":"",
+"N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+"O":"",
+"P":0},
+
+
+ {"A":"15","B":"(AR) Bein Sports HD 8","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"http://wssfree.com/WSSv2.3/images/be8.png", "G": "http://beinconnect.us/?id=8&srv=srv1
+",
+ "H": "defaultplayer",
+ "I": "false", 
+ "J": "graphm3u8", 
+ "K": "", 
+ "L": "",
+ "M": "", "R":"",
+"N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+"O":"",
+"P":0},
  
-
-
+ {"A":"16","B":"(AR) Bein Sports HD 9","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"http://wssfree.com/WSSv2.3/images/be9.png", "G": "http://beinconnect.us/?id=9&srv=srv1
+",
+ "H": "defaultplayer",
+ "I": "false", 
+ "J": "graphm3u8", 
+ "K": "", 
+ "L": "",
+ "M": "", "R":"",
+"N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+"O":"",
+"P":0},
+ 
+ 
+ 
+ {"A":"17","B":"(AR) Bein Sports HD 10","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"http://wssfree.com/WSSv2.3/images/be10.png", "G": "http://beinconnect.us/?id=10&srv=srv1
+",
+ "H": "defaultplayer",
+ "I": "false", 
+ "J": "graphm3u8", 
+ "K": "", 
+ "L": "",
+ "M": "", "R":"",
+"N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+"O":"",
+"P":0},
+ 
 
 
 
