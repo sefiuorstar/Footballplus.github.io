@@ -1368,15 +1368,15 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/tv-station-rmc-sport-1-1427.png", 
- "G": "http://kooralive247.com/cha/embed.php?stream=RMCSport1
+ "G": "http://flusonic-4.platinum-tv.com:80/sfr_sport_1/index.m3u8?token=test
 ",
  "H": "defaultplayer",
  "I": "false", 
- "J": "graphm3u8", 
+ "J": "direct", 
  "K": "", 
  "L": "",
  "M": "",
-"R": "{\"Referer\":\"http://kooralive247.com/cha/embed.php?stream=RMCSport1\"}",
+"R": "",
 "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
 "O": "24.04.2017 20:03:40",
 "P": 0 },
@@ -1390,18 +1390,19 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/tv-station-rmc-sport-1-1428.png", 
- "G": "http://kooralive247.com/cha/embed.php?stream=RMCSport2
+ "G": "http://flusonic-4.platinum-tv.com:80/sfr_sport_2/index.m3u8?token=test
 ",
  "H": "defaultplayer",
  "I": "false", 
- "J": "graphm3u8", 
+ "J": "direct", 
  "K": "", 
  "L": "",
  "M": "",
-"R": "{\"Referer\":\"http://kooralive247.com/cha/embed.php?stream=RMCSport2\"}",
+"R": "",
 "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
 "O": "24.04.2017 20:03:40",
 "P": 0 },
+ 
  
  
  
@@ -1413,15 +1414,15 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/tv-station-rmc-sport-1-1429.png", 
- "G": "http://kooralive247.com/cha/embed.php?stream=RMCSport3
+ "G": "http://flusonic-4.platinum-tv.com:80/sfr_sport_3/index.m3u8?token=test
 ",
  "H": "defaultplayer",
  "I": "false", 
- "J": "graphm3u8", 
+ "J": "direct", 
  "K": "", 
  "L": "",
  "M": "",
-"R": "{\"Referer\":\"http://kooralive247.com/cha/embed.php?stream=RMCSport3\"}",
+"R": "",
 "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
 "O": "24.04.2017 20:03:40",
 "P": 0 },
