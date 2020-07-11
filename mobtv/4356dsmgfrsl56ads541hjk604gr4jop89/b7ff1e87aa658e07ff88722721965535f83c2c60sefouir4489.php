@@ -1184,10 +1184,91 @@
 
  
  
+  { "A": "9",
+ "B": "Varzesh TV Farsi",
+ "C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+ "F": "https://www.lyngsat.com/logo/tv/vv/varzesh-tv-farsi-fr.png", 
+ "G": "http://varzeshtv.live/
+",
+  "H": "defaultplayer",
+ "I": "false", 
+ "J": "graphm3u8", 
+ "K": "", 
+ "L": "",
+ "M": "", "R":"",
+"N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+"O":"",
+"P":0},
+
  
- { "A": "8607", "B": "Premier Sport HD", "C": "1", "D":"SPORTS TV", "E":"SPORTS TV", "F": "https://www.fifeflyers.co.uk/images/Logos/PREMIERSPORT.jpg", "G": "http://sportsvideoline3.pw/player?channel=premiersport", "H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"", "R": "{\"Referer\":\"http://sportsvideoline3.pw\"}", "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "25.04.2017 09:00:26", "P": 0 }, 
+
+
+ { "A": "9",
+ "B": "Varzesh TV Farsi 2",
+ "C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+ "F": "https://www.lyngsat.com/logo/tv/vv/varzesh-tv-farsi-2-fr.png", 
+ "G": "http://varzeshtv2.live/
+",
+  "H": "defaultplayer",
+ "I": "false", 
+ "J": "graphm3u8", 
+ "K": "", 
+ "L": "",
+ "M": "", "R":"",
+"N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+"O":"",
+"P":0},
+
  
+
+
+
+
+ { "A": "9",
+ "B": "Varzesh TV Farsi3",
+ "C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+ "F": "https://www.lyngsat.com/logo/tv/vv/varzesh-tv-farsi-3-fr.png", 
+ "G": "http://varzeshtv3.live/
+",
+  "H": "defaultplayer",
+ "I": "false", 
+ "J": "graphm3u8", 
+ "K": "", 
+ "L": "",
+ "M": "", "R":"",
+"N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+"O":"",
+"P":0},
+
  
+
+
+ { "A": "9",
+ "B": "Varzesh TV Farsi 4",
+ "C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+ "F": "https://www.lyngsat.com/logo/tv/vv/varzesh-tv-farsi-4-fr.png", 
+ "G": "http://varzeshtv4.live/
+",
+  "H": "defaultplayer",
+ "I": "false", 
+ "J": "graphm3u8", 
+ "K": "", 
+ "L": "",
+ "M": "", "R":"",
+"N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+"O":"",
+"P":0},
+
+ 
+
  
  
 {"A":"22","B":"Irib varzesh","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://s.cafebazaar.ir/1/icons/com.samimi.app.varzesh_show_512x512.png","G":"https://m.telewebion.com/embed/varzesh/live","H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"","R":"{\"Referer\":\"https://www.telewebion.com/live/varzesh/\"}","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"25.01.2019 00:39:23","P":0}, 
