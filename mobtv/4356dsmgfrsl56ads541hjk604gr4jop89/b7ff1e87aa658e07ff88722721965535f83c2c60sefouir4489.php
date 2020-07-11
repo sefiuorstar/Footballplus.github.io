@@ -1295,15 +1295,13 @@
             },
 
 
-
-  
 { "A": "8",
  "B": "SuperSport One",
  "C": "1",
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a291.png", 
- "G": "http://tv.castawaytv.club:83/51839784/71484553/376804
+ "G": "http:///cooliptv.club/live/gQSgNjhjxpGX/8FX5NH5/145100.m3u8
 ",
  "H": "defaultplayer",
  "I": "false", 
@@ -1312,7 +1310,7 @@
  "L": "",
  "M": "", 
  "R":"",
- "N": "ghrffde€4467hgkkj321", "O": "",
+ "N": "samsung LibVLC/3.0.10", "O": "",
  "P": 0 },
 
  
@@ -1323,7 +1321,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a292.png", 
- "G": "http://tv.castawaytv.club:83/51839784/71484553/376805
+ "G": "http:///cooliptv.club/live/gQSgNjhjxpGX/8FX5NH5/145095.m3u8
 ",
  "H": "defaultplayer",
  "I": "false", 
@@ -1332,7 +1330,7 @@
  "L": "",
  "M": "", 
  "R":"",
- "N": "ghrffde€4467hgkkj321", "O": "",
+ "N": "samsung LibVLC/3.0.10", "O": "",
  "P": 0 },
 
 
@@ -1345,7 +1343,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a293.png", 
- "G": "http://tv.castawaytv.club:83/51839784/71484553/376805",
+ "G": "http:///cooliptv.club/live/gQSgNjhjxpGX/8FX5NH5/145094.m3u8",
  "H": "defaultplayer",
  "I": "false", 
  "J": "direct", 
@@ -1353,7 +1351,7 @@
  "L": "",
  "M": "", 
  "R":"",
- "N": "ghrffde€4467hgkkj321", "O": "",
+ "N": "samsung LibVLC/3.0.10", "O": "",
  "P": 0 },
 
  
@@ -1364,7 +1362,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a294.png", 
- "G": "http://tv.castawaytv.club:83/51839784/71484553/376806",
+ "G": "http:///cooliptv.club/live/gQSgNjhjxpGX/8FX5NH5/145093.m3u8",
  "H": "defaultplayer",
  "I": "false", 
  "J": "direct", 
@@ -1372,7 +1370,7 @@
  "L": "",
  "M": "", 
  "R":"",
- "N": "ghrffde€4467hgkkj321", "O": "",
+ "N": "samsung LibVLC/3.0.10", "O": "",
  "P": 0 },
 
  
@@ -1383,7 +1381,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a295.png", 
- "G": "http://tv.castawaytv.club:83/51839784/71484553/376807
+ "G": "http:///cooliptv.club/live/gQSgNjhjxpGX/8FX5NH5/145092.m3u8
 ",
  "H": "defaultplayer",
  "I": "false", 
@@ -1392,7 +1390,7 @@
  "L": "",
  "M": "", 
  "R":"",
- "N": "ghrffde€4467hgkkj321", "O": "",
+ "N": "samsung LibVLC/3.0.10", "O": "",
  "P": 0 },
 
    
@@ -1402,7 +1400,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a296.png", 
- "G": "http://tv.castawaytv.club:83/51839784/71484553/376808
+ "G": "http:///cooliptv.club/live/gQSgNjhjxpGX/8FX5NH5/145091.m3u8
 ",
  "H": "defaultplayer",
  "I": "false", 
@@ -1411,7 +1409,7 @@
  "L": "",
  "M": "", 
  "R":"",
- "N": "ghrffde€4467hgkkj321", "O": "",
+ "N": "samsung LibVLC/3.0.10", "O": "",
  "P": 0 },
 
 
@@ -1424,7 +1422,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a297.png", 
- "G": "http://tv.castawaytv.club:83/51839784/71484553/376809
+ "G": "http:///cooliptv.club/live/gQSgNjhjxpGX/8FX5NH5/145090.m3u8
 ",
  "H": "defaultplayer",
  "I": "false", 
@@ -1433,7 +1431,7 @@
  "L": "",
  "M": "", 
  "R":"",
- "N": "ghrffde€4467hgkkj321", "O": "",
+ "N": "samsung LibVLC/3.0.10", "O": "",
  "P": 0 },
 
 
@@ -1446,7 +1444,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a298.png", 
- "G": "http://tv.castawaytv.club:83/51839784/71484553/376810
+ "G": "http:///cooliptv.club/live/gQSgNjhjxpGX/8FX5NH5/145089.m3u8
 ",
  "H": "defaultplayer",
  "I": "false", 
@@ -1455,11 +1453,16 @@
  "L": "",
  "M": "", 
  "R":"",
- "N": "ghrffde€4467hgkkj321", "O": "",
+ "N": "samsung LibVLC/3.0.10", "O": "",
  "P": 0 },
 
 
 
+
+ 
+ 
+ 
+ 
 
  
  
