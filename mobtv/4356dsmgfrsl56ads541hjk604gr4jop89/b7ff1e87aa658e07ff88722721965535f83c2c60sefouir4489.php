@@ -1274,25 +1274,7 @@
  , 
  
  
- {
-                "A": "3005",
-                "B": "L'équipe 21",
-                "C": "1",
-                "D":"SPORTS TV",
- "E": "SPORTS TV",
-                "F": "https://sport-tv-guide.live/images/stations/a414.png",
-                "G": "https://www.stream4free.live/l-equipe-21",
-                "H": "defaultplayer",
-                "I": "false",
-                "J": "pattern",
-                "K": "['\"]([^'\"]*m3u8[^'\"]*)['\"]",
-                "L": "",
-                "M": "",
-                "R": "{\"Referer\":\"https://www.stream4free.live\"}",
-                "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
-                "O": "24.04.2017 20:03:40",
-                "P": 0
-            },
+
 
 
 { "A": "8",
@@ -1301,7 +1283,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a291.png", 
- "G": "http:///cooliptv.club/live/gQSgNjhjxpGX/8FX5NH5/145100.m3u8
+ "G": "http://cooliptv.club/live/gQSgNjhjxpGX/8FX5NH5/145100.m3u8
 ",
  "H": "defaultplayer",
  "I": "false", 
@@ -1321,7 +1303,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a292.png", 
- "G": "http:///cooliptv.club/live/gQSgNjhjxpGX/8FX5NH5/145095.m3u8
+ "G": "http://cooliptv.club/live/gQSgNjhjxpGX/8FX5NH5/145095.m3u8
 ",
  "H": "defaultplayer",
  "I": "false", 
@@ -1343,7 +1325,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a293.png", 
- "G": "http:///cooliptv.club/live/gQSgNjhjxpGX/8FX5NH5/145094.m3u8",
+ "G": "http://cooliptv.club/live/gQSgNjhjxpGX/8FX5NH5/145094.m3u8",
  "H": "defaultplayer",
  "I": "false", 
  "J": "direct", 
@@ -1362,7 +1344,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a294.png", 
- "G": "http:///cooliptv.club/live/gQSgNjhjxpGX/8FX5NH5/145093.m3u8",
+ "G": "http://cooliptv.club/live/gQSgNjhjxpGX/8FX5NH5/145093.m3u8",
  "H": "defaultplayer",
  "I": "false", 
  "J": "direct", 
@@ -1381,7 +1363,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a295.png", 
- "G": "http:///cooliptv.club/live/gQSgNjhjxpGX/8FX5NH5/145092.m3u8
+ "G": "http://cooliptv.club/live/gQSgNjhjxpGX/8FX5NH5/145092.m3u8
 ",
  "H": "defaultplayer",
  "I": "false", 
@@ -1400,7 +1382,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a296.png", 
- "G": "http:///cooliptv.club/live/gQSgNjhjxpGX/8FX5NH5/145091.m3u8
+ "G": "http://cooliptv.club/live/gQSgNjhjxpGX/8FX5NH5/145091.m3u8
 ",
  "H": "defaultplayer",
  "I": "false", 
@@ -1422,7 +1404,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a297.png", 
- "G": "http:///cooliptv.club/live/gQSgNjhjxpGX/8FX5NH5/145090.m3u8
+ "G": "http://cooliptv.club/live/gQSgNjhjxpGX/8FX5NH5/145090.m3u8
 ",
  "H": "defaultplayer",
  "I": "false", 
@@ -1444,7 +1426,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a298.png", 
- "G": "http:///cooliptv.club/live/gQSgNjhjxpGX/8FX5NH5/145089.m3u8
+ "G": "http://cooliptv.club/live/gQSgNjhjxpGX/8FX5NH5/145089.m3u8
 ",
  "H": "defaultplayer",
  "I": "false", 
