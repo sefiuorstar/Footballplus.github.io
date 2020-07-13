@@ -26,15 +26,13 @@
 
 
 
-{
-
                 "A": "3501",
                 "B": "Live 1",
                 "C": "1",
                  "D": "Live In Event",
                 "E": "Live In Event",
                 "F": "https://pbs.twimg.com/profile_images/536131063039684608/rhuQuIgp_400x400.jpeg",
-                "G": "http://hdstreams.club/page/ch1.php",
+                "G": "http://cdn3.hdstreams.club/live/ch1/index.m3u8",
                 "H": "defaultplayer",
                 "I": "false",
                 "J": "graphm3u8",
@@ -64,7 +62,7 @@
                 "D": "Live In Event",
                 "E": "Live In Event",
                 "F": "https://pbs.twimg.com/profile_images/536131063039684608/rhuQuIgp_400x400.jpeg",
-                "G": "http://hdstreams.club/page/ch2.php",
+                "G": "http://cdn3.hdstreams.club/live/ch2/index.m3u8",
                 "H": "defaultplayer",
                 "I": "false",
                 "J": "graphm3u8",
@@ -91,7 +89,7 @@
                 "D": "Live In Event",
                 "E": "Live In Event",
                 "F": "https://pbs.twimg.com/profile_images/536131063039684608/rhuQuIgp_400x400.jpeg",
-                "G": "http://hdstreams.club/page/ch3.php",
+                "G": "http://cdn3.hdstreams.club/live/ch3/index.m3u8",
                 "H": "defaultplayer",
                 "I": "false",
                 "J": "graphm3u8",
@@ -123,7 +121,7 @@
                 "D": "Live In Event",
                 "E": "Live In Event",
                 "F": "https://pbs.twimg.com/profile_images/536131063039684608/rhuQuIgp_400x400.jpeg",
-                "G": "http://hdstreams.club/page/ch4.php",
+                "G": "http://cdn3.hdstreams.club/live/ch4/index.m3u8",
                 "H": "defaultplayer",
                 "I": "false",
                 "J": "graphm3u8",
@@ -154,7 +152,7 @@
                 "D": "Live In Event",
                 "E": "Live In Event",
                 "F": "https://pbs.twimg.com/profile_images/536131063039684608/rhuQuIgp_400x400.jpeg",
-                "G": "http://hdstreams.club/page/ch5.php",
+                "G": "http://cdn3.hdstreams.club/live/ch5/index.m3u8",
                 "H": "defaultplayer",
                 "I": "false",
                 "J": "graphm3u8",
@@ -185,7 +183,7 @@
                 "D": "Live In Event",
                 "E": "Live In Event",
                 "F": "https://pbs.twimg.com/profile_images/536131063039684608/rhuQuIgp_400x400.jpeg",
-                "G": "http://hdstreams.club/page/ch6.php",
+                "G": "http://cdn3.hdstreams.club/live/ch6/index.m3u8",
                 "H": "defaultplayer",
                 "I": "false",
                 "J": "graphm3u8",
@@ -212,7 +210,7 @@
                 "D": "Live In Event",
                 "E": "Live In Event",
                 "F": "https://pbs.twimg.com/profile_images/536131063039684608/rhuQuIgp_400x400.jpeg",
-                "G": "http://hdstreams.club/page/ch7.php",
+                "G": "http://cdn3.hdstreams.club/live/ch7/index.m3u8",
                 "H": "defaultplayer",
                 "I": "false",
                 "J": "graphm3u8",
@@ -238,7 +236,7 @@
                 "D": "Live In Event",
                 "E": "Live In Event",
                 "F": "https://pbs.twimg.com/profile_images/536131063039684608/rhuQuIgp_400x400.jpeg",
-                "G": "http://hdstreams.club/page/ch8.php",
+                "G": "http://cdn3.hdstreams.club/live/ch8/index.m3u8",
                 "H": "defaultplayer",
                 "I": "false",
                 "J": "graphm3u8",
@@ -263,7 +261,7 @@
                 "D": "Live In Event",
                 "E": "Live In Event",
                 "F": "https://pbs.twimg.com/profile_images/536131063039684608/rhuQuIgp_400x400.jpeg",
-                "G": "http://hdstreams.club/page/ch9.php",
+                "G": "http://cdn3.hdstreams.club/live/ch9/index.m3u8",
                 "H": "defaultplayer",
                 "I": "false",
                 "J": "graphm3u8",
@@ -289,7 +287,7 @@
                 "D": "Live In Event",
                 "E": "Live In Event",
                 "F": "https://pbs.twimg.com/profile_images/536131063039684608/rhuQuIgp_400x400.jpeg",
-                "G": "http://hdstreams.club/page/ch10.php",
+                "G": "http://cdn3.hdstreams.club/live/ch10/index.m3u8",
                 "H": "defaultplayer",
                 "I": "false",
                 "J": "graphm3u8",
@@ -316,7 +314,7 @@
                 "D": "Live In Event",
                 "E": "Live In Event",
                 "F": "https://pbs.twimg.com/profile_images/536131063039684608/rhuQuIgp_400x400.jpeg",
-                "G": "http://hdstreams.club/page/ch11.php",
+                "G": "http://cdn3.hdstreams.club/live/ch11/index.m3u8",
                 "H": "defaultplayer",
                 "I": "false",
                 "J": "graphm3u8",
@@ -340,7 +338,7 @@
                 "D": "Live In Event",
                 "E": "Live In Event",
                 "F": "https://pbs.twimg.com/profile_images/536131063039684608/rhuQuIgp_400x400.jpeg",
-                "G": "http://hdstreams.club/page/ch12.php",
+                "G": "http://cdn3.hdstreams.club/live/ch12/index.m3u8",
                 "H": "defaultplayer",
                 "I": "false",
                 "J": "graphm3u8",
@@ -366,7 +364,7 @@
                 "D": "Live In Event",
                 "E": "Live In Event",
                 "F": "https://pbs.twimg.com/profile_images/536131063039684608/rhuQuIgp_400x400.jpeg",
-                "G": "http://hdstreams.club/page/ch13.php",
+                "G": "http://cdn3.hdstreams.club/live/ch13/index.m3u8",
                 "H": "defaultplayer",
                 "I": "false",
                 "J": "graphm3u8",
@@ -379,6 +377,9 @@
                 "P": 0
              
             }, 
+
+
+
 
 
 
