@@ -22,9 +22,7 @@
 
 
 
- 
-
-
+ {
 
                 "A": "3501",
                 "B": "Live 1",
@@ -35,7 +33,7 @@
                 "G": "http://cdn3.hdstreams.club/live/ch1/index.m3u8",
                 "H": "defaultplayer",
                 "I": "false",
-                "J": "graphm3u8",
+                "J": "direct",
                 "K": "",
                 "L": "",
                 "M": "",
@@ -65,7 +63,7 @@
                 "G": "http://cdn3.hdstreams.club/live/ch2/index.m3u8",
                 "H": "defaultplayer",
                 "I": "false",
-                "J": "graphm3u8",
+                "J": "direct",
                 "K": "",
                 "L": "",
                 "M": "",
@@ -92,7 +90,7 @@
                 "G": "http://cdn3.hdstreams.club/live/ch3/index.m3u8",
                 "H": "defaultplayer",
                 "I": "false",
-                "J": "graphm3u8",
+                "J": "direct",
                 "K": "",
                 "L": "",
                 "M": "",
@@ -124,7 +122,7 @@
                 "G": "http://cdn3.hdstreams.club/live/ch4/index.m3u8",
                 "H": "defaultplayer",
                 "I": "false",
-                "J": "graphm3u8",
+                "J": "direct",
                 "K": "",
                 "L": "",
                 "M": "",
@@ -155,7 +153,7 @@
                 "G": "http://cdn3.hdstreams.club/live/ch5/index.m3u8",
                 "H": "defaultplayer",
                 "I": "false",
-                "J": "graphm3u8",
+                "J": "direct",
                 "K": "",
                 "L": "",
                 "M": "",
@@ -186,7 +184,7 @@
                 "G": "http://cdn3.hdstreams.club/live/ch6/index.m3u8",
                 "H": "defaultplayer",
                 "I": "false",
-                "J": "graphm3u8",
+                "J": "direct",
                 "K": "",
                 "L": "",
                 "M": "",
@@ -213,7 +211,7 @@
                 "G": "http://cdn3.hdstreams.club/live/ch7/index.m3u8",
                 "H": "defaultplayer",
                 "I": "false",
-                "J": "graphm3u8",
+                "J": "direct",
                 "K": "",
                 "L": "",
                 "M": "",
@@ -239,7 +237,7 @@
                 "G": "http://cdn3.hdstreams.club/live/ch8/index.m3u8",
                 "H": "defaultplayer",
                 "I": "false",
-                "J": "graphm3u8",
+                "J": "direct",
                 "K": "",
                 "L": "",
                 "M": "",
@@ -264,7 +262,7 @@
                 "G": "http://cdn3.hdstreams.club/live/ch9/index.m3u8",
                 "H": "defaultplayer",
                 "I": "false",
-                "J": "graphm3u8",
+                "J": "direct",
                 "K": "",
                 "L": "",
                 "M": "",
@@ -290,7 +288,7 @@
                 "G": "http://cdn3.hdstreams.club/live/ch10/index.m3u8",
                 "H": "defaultplayer",
                 "I": "false",
-                "J": "graphm3u8",
+                "J": "direct",
                 "K": "",
                 "L": "",
                 "M": "",
@@ -317,7 +315,7 @@
                 "G": "http://cdn3.hdstreams.club/live/ch11/index.m3u8",
                 "H": "defaultplayer",
                 "I": "false",
-                "J": "graphm3u8",
+                "J": "direct",
                 "K": "",
                 "L": "",
                 "M": "",
@@ -341,7 +339,7 @@
                 "G": "http://cdn3.hdstreams.club/live/ch12/index.m3u8",
                 "H": "defaultplayer",
                 "I": "false",
-                "J": "graphm3u8",
+                "J": "direct",
                 "K": "",
                 "L": "",
                 "M": "",
@@ -367,7 +365,7 @@
                 "G": "http://cdn3.hdstreams.club/live/ch13/index.m3u8",
                 "H": "defaultplayer",
                 "I": "false",
-                "J": "graphm3u8",
+                "J": "direct",
                 "K": "",
                 "L": "",
                 "M": "",
@@ -377,6 +375,8 @@
                 "P": 0
              
             }, 
+
+
 
 
 
