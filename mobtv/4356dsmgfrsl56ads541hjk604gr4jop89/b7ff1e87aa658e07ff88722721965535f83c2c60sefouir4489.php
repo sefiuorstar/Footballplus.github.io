@@ -1359,13 +1359,14 @@
 
 
 
+  
 { "A": "8",
  "B": "SuperSport One",
  "C": "1",
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a291.png", 
- "G": "http://cooliptv.club/live/gQSgNjhjxpGX/8FX5NH5/145100.m3u8
+ "G": "http://cloudcdn.tk/kF8lyvN65/vaWcxC58/28895
 ",
  "H": "defaultplayer",
  "I": "false", 
@@ -1385,7 +1386,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a292.png", 
- "G": "http://cooliptv.club/live/gQSgNjhjxpGX/8FX5NH5/145095.m3u8
+ "G": "http://cloudcdn.tk/kF8lyvN65/vaWcxC58/28894
 ",
  "H": "defaultplayer",
  "I": "false", 
@@ -1407,7 +1408,8 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a293.png", 
- "G": "http://cooliptv.club/live/gQSgNjhjxpGX/8FX5NH5/145094.m3u8",
+ "G": "http://cloudcdn.tk/kF8lyvN65/vaWcxC58/28896
+",
  "H": "defaultplayer",
  "I": "false", 
  "J": "direct", 
@@ -1426,7 +1428,8 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a294.png", 
- "G": "http://cooliptv.club/live/gQSgNjhjxpGX/8FX5NH5/145093.m3u8",
+ "G": "http://cloudcdn.tk/kF8lyvN65/vaWcxC58/28897
+",
  "H": "defaultplayer",
  "I": "false", 
  "J": "direct", 
@@ -1445,7 +1448,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a295.png", 
- "G": "http://cooliptv.club/live/gQSgNjhjxpGX/8FX5NH5/145092.m3u8
+ "G": "http://cloudcdn.tk/kF8lyvN65/vaWcxC58/28898
 ",
  "H": "defaultplayer",
  "I": "false", 
@@ -1464,7 +1467,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a296.png", 
- "G": "http://cooliptv.club/live/gQSgNjhjxpGX/8FX5NH5/145091.m3u8
+ "G": "http://cloudcdn.tk/kF8lyvN65/vaWcxC58/28899
 ",
  "H": "defaultplayer",
  "I": "false", 
@@ -1486,7 +1489,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a297.png", 
- "G": "http://cooliptv.club/live/gQSgNjhjxpGX/8FX5NH5/145090.m3u8
+ "G": "http://cloudcdn.tk/kF8lyvN65/vaWcxC58/28900
 ",
  "H": "defaultplayer",
  "I": "false", 
@@ -1508,7 +1511,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a298.png", 
- "G": "http://cooliptv.club/live/gQSgNjhjxpGX/8FX5NH5/145089.m3u8
+ "G": "http://cloudcdn.tk/kF8lyvN65/vaWcxC58/28901
 ",
  "H": "defaultplayer",
  "I": "false", 
@@ -1523,7 +1526,6 @@
 
 
 
- 
  
  
  
