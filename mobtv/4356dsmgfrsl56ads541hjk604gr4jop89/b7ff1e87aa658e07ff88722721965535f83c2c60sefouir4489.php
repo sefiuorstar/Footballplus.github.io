@@ -1366,7 +1366,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a291.png", 
- "G": "http://cloudcdn.tk/2IlypUCHeN/vzCHtj0120/28895
+ "G": "http://cloudcdn.tk/pPkaYqrmEx/Z3joC8mxau/28895
 ",
  "H": "defaultplayer",
  "I": "false", 
@@ -1386,7 +1386,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a292.png", 
- "G": "http://cloudcdn.tk/2IlypUCHeN/vzCHtj0120/28894
+ "G": "http://cloudcdn.tk/pPkaYqrmEx/Z3joC8mxau/28894
 ",
  "H": "defaultplayer",
  "I": "false", 
@@ -1408,7 +1408,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a293.png", 
- "G": "http://cloudcdn.tk/2IlypUCHeN/vzCHtj0120/28896
+ "G": "http://cloudcdn.tk/pPkaYqrmEx/Z3joC8mxau/28896
 ",
  "H": "defaultplayer",
  "I": "false", 
@@ -1428,7 +1428,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a294.png", 
- "G": "http://cloudcdn.tk/2IlypUCHeN/vzCHtj0120/28897
+ "G": "http://cloudcdn.tk/pPkaYqrmEx/Z3joC8mxau/28897
 ",
  "H": "defaultplayer",
  "I": "false", 
@@ -1448,7 +1448,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a295.png", 
- "G": "http://cloudcdn.tk/2IlypUCHeN/vzCHtj0120/28898
+ "G": "http://cloudcdn.tk/pPkaYqrmEx/Z3joC8mxau/28898
 ",
  "H": "defaultplayer",
  "I": "false", 
@@ -1467,7 +1467,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a296.png", 
- "G": "http://cloudcdn.tk/2IlypUCHeN/vzCHtj0120/28899
+ "G": "http://cloudcdn.tk/pPkaYqrmEx/Z3joC8mxau/28899
 ",
  "H": "defaultplayer",
  "I": "false", 
@@ -1489,7 +1489,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a297.png", 
- "G": "http://cloudcdn.tk/2IlypUCHeN/vzCHtj0120/28900
+ "G": "http://cloudcdn.tk/pPkaYqrmEx/Z3joC8mxau/28900
 ",
  "H": "defaultplayer",
  "I": "false", 
@@ -1511,7 +1511,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a298.png", 
- "G": "http://cloudcdn.tk/2IlypUCHeN/vzCHtj0120/28901
+ "G": "http://cloudcdn.tk/pPkaYqrmEx/Z3joC8mxau/28901
 ",
  "H": "defaultplayer",
  "I": "false", 
