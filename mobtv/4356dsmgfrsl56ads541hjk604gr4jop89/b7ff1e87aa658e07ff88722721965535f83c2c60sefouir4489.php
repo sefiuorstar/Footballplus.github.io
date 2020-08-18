@@ -525,11 +525,11 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "http://wssfree.com/WSSv2.3/images/be1.png", 
- "G": "http://beinconnect.us/?id=1&srv=srv1
+ "G": "http://cdn1.52dvb.xyz:80/5001/playlist.m3u8
 ",
   "H": "defaultplayer",
  "I": "false", 
- "J": "graphm3u8", 
+ "J": "direct", 
  "K": "", 
  "L": "",
  "M": "", "R":"",
@@ -548,11 +548,11 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "http://wssfree.com/WSSv2.3/images/be2.png", 
- "G": "http://beinconnect.us/?id=2&srv=srv1
+ "G": "http://cdn1.52dvb.xyz:80/5002/playlist.m3u8
 ",
   "H": "defaultplayer",
  "I": "false", 
- "J": "graphm3u8", 
+ "J": "direct", 
  "K": "", 
  "L": "",
  "M": "", "R":"",
@@ -574,11 +574,11 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "http://wssfree.com/WSSv2.3/images/be3.png", 
-"G": "http://beinconnect.us/?id=3&srv=srv1
+"G": "http://cdn1.52dvb.xyz:80/5003/playlist.m3u8
 ",
   "H": "defaultplayer",
  "I": "false", 
- "J": "graphm3u8", 
+ "J": "direct", 
  "K": "", 
  "L": "",
  "M": "", "R":"",
@@ -598,11 +598,11 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "http://wssfree.com/WSSv2.3/images/be4.png", 
-"G": "http://beinconnect.us/?id=4&srv=srv1
+"G": "http://cdn1.52dvb.xyz:80/5004/playlist.m3u8
 ",
   "H": "defaultplayer",
  "I": "false", 
- "J": "graphm3u8", 
+ "J": "direct", 
  "K": "", 
  "L": "",
  "M": "", "R":"",
@@ -620,11 +620,11 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "http://wssfree.com/WSSv2.3/images/be5.png", 
- "G": "http://beinconnect.us/?id=5&srv=srv1
+ "G": "http://cdn1.52dvb.xyz:80/5005/playlist.m3u8
 ",
   "H": "defaultplayer",
  "I": "false", 
- "J": "graphm3u8", 
+ "J": "direct", 
  "K": "", 
  "L": "",
  "M": "", "R":"",
@@ -644,11 +644,11 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "http://wssfree.com/WSSv2.3/images/be6.png", 
- "G": "http://beinconnect.us/?id=6&srv=srv1
+ "G": "http://cdn1.52dvb.xyz:80/5006/playlist.m3u8
 ",
   "H": "defaultplayer",
  "I": "false", 
- "J": "graphm3u8", 
+ "J": "direct", 
  "K": "", 
  "L": "",
  "M": "", "R":"",
@@ -666,11 +666,11 @@
 
 
 
- {"A":"14","B":"(AR) Bein Sports HD 7","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"http://wssfree.com/WSSv2.3/images/be7.png", "G": "http://beinconnect.us/?id=7&srv=srv1
+ {"A":"14","B":"(AR) Bein Sports HD 7","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"http://wssfree.com/WSSv2.3/images/be7.png", "G": "http://cdn1.52dvb.xyz:80/5007/playlist.m3u8
 ",
   "H": "defaultplayer",
  "I": "false", 
- "J": "graphm3u8", 
+ "J": "direct", 
  "K": "", 
  "L": "",
  "M": "", "R":"",
@@ -679,11 +679,10 @@
 "P":0},
 
 
- {"A":"15","B":"(AR) Bein Sports HD 8","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"http://wssfree.com/WSSv2.3/images/be8.png", "G": "http://beinconnect.us/?id=8&srv=srv1
-",
+ {"A":"15","B":"(AR) Bein Sports HD 8","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"http://wssfree.com/WSSv2.3/images/be8.png", "G": "http://cdn1.52dvb.xyz:80/5008/playlist.m3u8",
  "H": "defaultplayer",
  "I": "false", 
- "J": "graphm3u8", 
+ "J": "direct", 
  "K": "", 
  "L": "",
  "M": "", "R":"",
@@ -691,11 +690,10 @@
 "O":"",
 "P":0},
  
- {"A":"16","B":"(AR) Bein Sports HD 9","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"http://wssfree.com/WSSv2.3/images/be9.png", "G": "http://beinconnect.us/?id=9&srv=srv1
-",
+ {"A":"16","B":"(AR) Bein Sports HD 9","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"http://wssfree.com/WSSv2.3/images/be9.png", "G": "http://cdn1.52dvb.xyz:80/5009/playlist.m3u8",
  "H": "defaultplayer",
  "I": "false", 
- "J": "graphm3u8", 
+ "J": "direct", 
  "K": "", 
  "L": "",
  "M": "", "R":"",
