@@ -419,12 +419,12 @@
 
  
  
-{"A":"5","B":"Bein turk 1 HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a640.png","G":"https://08sportbar.com/beinsport1tur.html","H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"","R":"{\"Referer\":\"https://08sportbar.com/beinsport1tur.html/\"}","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"25.01.2019 00:39:23","P":0}, 
+{"A":"5","B":"Bein turk 1 HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a640.png","G":"https://sportbar.biz/beinsport1tur.html","H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"","R":"{\"Referer\":\"https://sportbar.biz/beinsport1tur.html/\"}","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"25.01.2019 00:39:23","P":0}, 
 
-{"A":"6","B":"Bein turk 2 HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a641.png","G":"https://08sportbar.com/turbein2sport.html","H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"","R":"{\"Referer\":\"https://08sportbar.com/turbein2sport.html/\"}","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"25.01.2019 00:39:23","P":0},
+{"A":"6","B":"Bein turk 2 HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a641.png","G":"https://sportbar.biz/turbein2sport.html","H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"","R":"{\"Referer\":\"https://sportbar.biz/turbein2sport.html/\"}","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"25.01.2019 00:39:23","P":0},
 
 
-{"A":"7","B":"Bein turk 3 HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a642.png","G":"https://08sportbar.com/bein3turkey.html","H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"","R":"{\"Referer\":\"https://08sportbar.com/bein3turkey.html/\"}","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"25.01.2019 00:39:23","P":0},
+{"A":"7","B":"Bein turk 3 HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a642.png","G":"https://sportbar.biz/bein3turkey.html","H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"","R":"{\"Referer\":\"https://sportbar.biz/bein3turkey.html/\"}","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"25.01.2019 00:39:23","P":0},
 
  
  
@@ -490,27 +490,27 @@
 
 
 
- {"A":"11","B":"Digi Sport 1 HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a880.png","G":"https://08sportbar.com/ds1ro.html","H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"","R":"{\"Referer\":\"https://08sportbar.com/ds1ro.html/\"}","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"25.01.2019 00:39:23","P":0},
+ {"A":"11","B":"Digi Sport 1 HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a880.png","G":"https://sportbar.biz/ds1ro.html","H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"","R":"{\"Referer\":\"https://sportbar.biz/ds1ro.html/\"}","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"25.01.2019 00:39:23","P":0},
 
 
- {"A":"853","B":"Digi Sport 2 HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a881.png","G":"https://08sportbar.com/digisport2ro.html","H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"","R":"{\"Referer\":\"https://08sportbar.com/digisport2ro.html/\"}","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"25.01.2019 00:39:23","P":0},
+ {"A":"853","B":"Digi Sport 2 HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a881.png","G":"https://sportbar.biz/digisport2ro.html","H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"","R":"{\"Referer\":\"https://sportbar.biz/digisport2ro.html/\"}","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"25.01.2019 00:39:23","P":0},
 
 
- {"A":"853","B":"Digi Sport 3 HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a882.png","G":"https://08sportbar.com/digi3ro.html","H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"","R":"{\"Referer\":\"https://08sportbar.com/digi3ro.html/\"}","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"25.01.2019 00:39:23","P":0}, 
+ {"A":"853","B":"Digi Sport 3 HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a882.png","G":"https://sportbar.biz/digi3ro.html","H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"","R":"{\"Referer\":\"https://sportbar.biz/digi3ro.html/\"}","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"25.01.2019 00:39:23","P":0}, 
  
  
- {"A":"853","B":"Digi Sport 4 HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a883.png","G":"https://08sportbar.com/rodigi4.html","H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"","R":"{\"Referer\":\"https://08sportbar.com/rodigi4.html/\"}","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"25.01.2019 00:39:23","P":0}, 
+ {"A":"853","B":"Digi Sport 4 HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a883.png","G":"https://sportbar.biz/rodigi4.html","H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"","R":"{\"Referer\":\"https://sportbar.biz/rodigi4.html/\"}","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"25.01.2019 00:39:23","P":0}, 
  
  
- {"A":"853","B":"SPORT TV 1 HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/tv-station-pt-sport-tv-1-450.png","G":"https://08sportbar.com/tv1pt.html","H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"","R":"{\"Referer\":\"https://08sportbar.com/tv1pt.html/\"}","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"25.01.2019 00:39:23","P":0}, 
+ {"A":"853","B":"SPORT TV 1 HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/tv-station-pt-sport-tv-1-450.png","G":"https://sportbar.biz/tv1pt.html","H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"","R":"{\"Referer\":\"https://sportbar.biz/tv1pt.html/\"}","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"25.01.2019 00:39:23","P":0}, 
  
- {"A":"853","B":"SPORT TV 2 HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a451.png","G":"https://08sportbar.com/sport2port.html","H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"","R":"{\"Referer\":\"https://08sportbar.com/sport2port.html/\"}","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"25.01.2019 00:39:23","P":0}, 
+ {"A":"853","B":"SPORT TV 2 HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a451.png","G":"https://sportbar.biz/sport2port.html","H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"","R":"{\"Referer\":\"https://sportbar.biz/sport2port.html/\"}","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"25.01.2019 00:39:23","P":0}, 
  
- {"A":"853","B":"SPORT TV 3 HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a452.png","G":"https://08sportbar.com/pt3sport.html","H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"","R":"{\"Referer\":\"https://08sportbar.com/pt3sport.html/\"}","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"25.01.2019 00:39:23","P":0}, 
+ {"A":"853","B":"SPORT TV 3 HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a452.png","G":"https://sportbar.biz/pt3sport.html","H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"","R":"{\"Referer\":\"https://sportbar.biz/pt3sport.html/\"}","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"25.01.2019 00:39:23","P":0}, 
  
- {"A":"853","B":"SPORT TV 4 HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a453.png","G":"https://08sportbar.com/portugalsport4.html","H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"","R":"{\"Referer\":\"https://08sportbar.com/portugalsport4.html/\"}","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"25.01.2019 00:39:23","P":0}, 
+ {"A":"853","B":"SPORT TV 4 HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a453.png","G":"https://sportbar.biz/portugalsport4.html","H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"","R":"{\"Referer\":\"https://sportbar.biz/portugalsport4.html/\"}","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"25.01.2019 00:39:23","P":0}, 
  
- {"A":"853","B":"SPORT TV 5 HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a453.png","G":"https://08sportbar.com/ptsport5.html","H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"","R":"{\"Referer\":\"https://08sportbar.com/ptsport5.html/\"}","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"25.01.2019 00:39:23","P":0},
+ {"A":"853","B":"SPORT TV 5 HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a453.png","G":"https://sportbar.biz/ptsport5.html","H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"","R":"{\"Referer\":\"https://sportbar.biz/ptsport5.html/\"}","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"25.01.2019 00:39:23","P":0},
 
 
 
@@ -976,37 +976,37 @@
  
  
  
- {"A":"20","B":"BT 1 HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a97.png","G":"https://08sportbar.com/btuk1.html","H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"","R":"{\"Referer\":\"https://08sportbar.com/btuk1.html/\"}","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"25.01.2019 00:39:23","P":0}, 
+ {"A":"20","B":"BT 1 HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a97.png","G":"https://sportbar.biz/btuk1.html","H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"","R":"{\"Referer\":\"https://sportbar.biz/btuk1.html/\"}","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"25.01.2019 00:39:23","P":0}, 
  
  
  
- {"A":"21","B":"BT 2 HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a100.png","G":"https://08sportbar.com/ukbt2sport.html","H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"","R":"{\"Referer\":\"https://08sportbar.com/ukbt2sport.html/\"}","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"25.01.2019 00:39:23","P":0}, 
+ {"A":"21","B":"BT 2 HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a100.png","G":"https://sportbar.biz/ukbt2sport.html","H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"","R":"{\"Referer\":\"https://sportbar.biz/ukbt2sport.html/\"}","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"25.01.2019 00:39:23","P":0}, 
  
  
  
  
  
  {"A":"22","B":"BT 3 
- HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a108.png","G":"https://08sportbar.com/3btsporteu.html","H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"","R":"{\"Referer\":\"https://08sportbar.com/3btsporteu.html/\"}","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"25.01.2019 00:39:23","P":0}, 
+ HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a108.png","G":"https://sportbar.biz/3btsporteu.html","H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"","R":"{\"Referer\":\"https://sportbar.biz/3btsporteu.html/\"}","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"25.01.2019 00:39:23","P":0}, 
  
  
  
- {"A":"23","B":"BT ESPN HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a98.png","G":"https://08sportbar.com/btse.html","H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"","R":"{\"Referer\":\"https://08sportbar.com/btse.html/\"}","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"25.01.2019 00:39:23","P":0}
+ {"A":"23","B":"BT ESPN HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a98.png","G":"https://sportbar.biz/btse.html","H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"","R":"{\"Referer\":\"https://sportbar.biz/btse.html/\"}","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"25.01.2019 00:39:23","P":0}
  
  
  
  
  
  , 
- {"A":"853","B":"SPORT KLUB 1 HD","C":"1","D":"Sports","E":"Sports TV","F":"http://wssfree.com/WSSv2.3/images/sportklub1.png","G":"https://08sportbar.com/sportklub1rs.html","H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"","R":"{\"Referer\":\"https://08sportbar.com/sportklub1rs.html/\"}","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"25.01.2019 00:39:23","P":0},
+ {"A":"853","B":"SPORT KLUB 1 HD","C":"1","D":"Sports","E":"Sports TV","F":"http://wssfree.com/WSSv2.3/images/sportklub1.png","G":"https://sportbar.biz/sportklub1rs.html","H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"","R":"{\"Referer\":\"https://sportbar.biz/sportklub1rs.html/\"}","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"25.01.2019 00:39:23","P":0},
  
  
  
-  {"A":"853","B":"SPORT KLUB 2 HD","C":"1","D":"Sports","E":"Sports TV","F":"http://wssfree.com/WSSv2.3/images/sportklub2.png","G":"https://08sportbar.com/sk2serbia.html","H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"","R":"{\"Referer\":\"https://08sportbar.com/sportklub1rs.html/\"}","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"25.01.2019 00:39:23","P":0},
+  {"A":"853","B":"SPORT KLUB 2 HD","C":"1","D":"Sports","E":"Sports TV","F":"http://wssfree.com/WSSv2.3/images/sportklub2.png","G":"https://sportbar.biz/sk2serbia.html","H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"","R":"{\"Referer\":\"https://sportbar.biz/sportklub1rs.html/\"}","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"25.01.2019 00:39:23","P":0},
  
  
  
- {"A":"853","B":"SPORT KLUB 3 HD","C":"1","D":"Sports","E":"Sports TV","F":"http://wssfree.com/WSSv2.3/images/sportklub3.png","G":"https://08sportbar.com/rs3sk.html","H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"","R":"{\"Referer\":\"https://08sportbar.com/rs3sk.html/\"}","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"25.01.2019 00:39:23","P":0}
+ {"A":"853","B":"SPORT KLUB 3 HD","C":"1","D":"Sports","E":"Sports TV","F":"http://wssfree.com/WSSv2.3/images/sportklub3.png","G":"https://sportbar.biz/rs3sk.html","H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"","R":"{\"Referer\":\"https://sportbar.biz/rs3sk.html/\"}","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"25.01.2019 00:39:23","P":0}
  
  
  
@@ -1014,21 +1014,21 @@
 { "A": "867", "B": "Super sport 1 HD", "C": "1", "D":"SPORTS TV", "E":"SPORTS TV", "F": "http://prvobitno.com/slike/supersport1tv.jpg", "G": "http://sportsvideoline3.pw/player?channel=supersport", "H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"", "R": "{\"Referer\":\"http://sportsvideoline3.pw\"}", "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "25.04.2017 09:00:26", "P": 0 }, 	
 
 
-{ "A": "867", "B": "Super sport 2 HD", "C": "1", "D":"SPORTS TV", "E":"SPORTS TV", "F": "http://prvobitno.com/slike/supersport2tv.jpg", "G": "https://08sportbar.com/ss2al.html", "H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"", "R": "{\"Referer\":\"https://08sportbar.com/ss2al.html\"}", "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "25.04.2017 09:00:26", "P": 0 }, 			
+{ "A": "867", "B": "Super sport 2 HD", "C": "1", "D":"SPORTS TV", "E":"SPORTS TV", "F": "http://prvobitno.com/slike/supersport2tv.jpg", "G": "https://sportbar.biz/ss2al.html", "H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"", "R": "{\"Referer\":\"https://sportbar.biz/ss2al.html\"}", "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "25.04.2017 09:00:26", "P": 0 }, 			
 
-{ "A": "867", "B": "Super sport 3 HD", "C": "1", "D":"SPORTS TV", "E":"SPORTS TV", "F": "http://prvobitno.com/slike/supersport3tv.jpg", "G": "https://08sportbar.com/albaniasport3.html", "H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"", "R": "{\"Referer\":\"https://08sportbar.com/albaniasport3.html\"}", "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "25.04.2017 09:00:26", "P": 0 }, 			
+{ "A": "867", "B": "Super sport 3 HD", "C": "1", "D":"SPORTS TV", "E":"SPORTS TV", "F": "http://prvobitno.com/slike/supersport3tv.jpg", "G": "https://sportbar.biz/albaniasport3.html", "H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"", "R": "{\"Referer\":\"https://sportbar.biz/albaniasport3.html\"}", "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "25.04.2017 09:00:26", "P": 0 }, 			
 
 
-{ "A": "867", "B": "Super sport 4 HD", "C": "1", "D":"SPORTS TV", "E":"SPORTS TV", "F": "http://prvobitno.com/slike/supersport4tv.jpg", "G": "https://08sportbar.com/super4sport.html", "H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"", "R": "{\"Referer\":\"https://08sportbar.com/super4sport.html\"}", "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "25.04.2017 09:00:26", "P": 0 }
+{ "A": "867", "B": "Super sport 4 HD", "C": "1", "D":"SPORTS TV", "E":"SPORTS TV", "F": "http://prvobitno.com/slike/supersport4tv.jpg", "G": "https://sportbar.biz/super4sport.html", "H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"", "R": "{\"Referer\":\"https://sportbar.biz/super4sport.html\"}", "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "25.04.2017 09:00:26", "P": 0 }
  
  
  ,
  
  { "A": "1", "B": "Match Futbol 1 (RUS)", "C": "1", "D":"SPORTS TV", "E":"SPORTS TV", "F": "http://tivix.co/uploads/posts/2019-05/1558356314_match-futbol-1.png", "G": "https://777sportba.com/bc0069a07bf78daa34378fca6f0f3f59-live.html", "H": "defaultplayer", "I": "false", "J": "graphm3u8", "K": "", "L": "", "M": "", "R": "{\"Referer\":\"https://777sportba.com/bc0069a07bf78daa34378fca6f0f3f59-live.html\"}", "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "25.04.2017 05:55:09", "P": 0 }, 
   
-  { "A": "1", "B": "Match Futbol 2 (RUS)", "C": "1", "D":"SPORTS TV", "E":"SPORTS TV", "F": "http://tivix.co/uploads/posts/2016-05/1463984515_match-futbol-2.png", "G": "https://sport7.biz/698c9b6bee9a4fa5336708c17e462968-live.html", "H": "defaultplayer", "I": "false", "J": "pattern", "K": "['\"]([^'\"]*m3u8[^'\"]*)['\"]", "L": "", "M": "", "R": "{\"Referer\":\"https://08sportbar.com/rumatchf2.html/\"}", "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "25.04.2017 05:55:09", "P": 0 }, 
+  { "A": "1", "B": "Match Futbol 2 (RUS)", "C": "1", "D":"SPORTS TV", "E":"SPORTS TV", "F": "http://tivix.co/uploads/posts/2016-05/1463984515_match-futbol-2.png", "G": "https://sport7.biz/698c9b6bee9a4fa5336708c17e462968-live.html", "H": "defaultplayer", "I": "false", "J": "pattern", "K": "['\"]([^'\"]*m3u8[^'\"]*)['\"]", "L": "", "M": "", "R": "{\"Referer\":\"https://sportbar.biz/rumatchf2.html/\"}", "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "25.04.2017 05:55:09", "P": 0 }, 
   
-  { "A": "1", "B": "Match Futbol 3 (RUS)", "C": "1", "D":"SPORTS TV", "E":"SPORTS TV", "F": "http://tivix.co/uploads/posts/2019-05/1558979885_math_futbol_3.png", "G": "https://777sportba.com/3c27348e623319abb826edabaeba4aee-live.html", "H": "defaultplayer", "I": "false", "J": "graphm3u8", "K": "", "L": "", "M": "", "R": "{\"Referer\":\"https://08sportbar.com/matfoot3.html/\"}", "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "25.04.2017 05:55:09", "P": 0 }
+  { "A": "1", "B": "Match Futbol 3 (RUS)", "C": "1", "D":"SPORTS TV", "E":"SPORTS TV", "F": "http://tivix.co/uploads/posts/2019-05/1558979885_math_futbol_3.png", "G": "https://777sportba.com/3c27348e623319abb826edabaeba4aee-live.html", "H": "defaultplayer", "I": "false", "J": "graphm3u8", "K": "", "L": "", "M": "", "R": "{\"Referer\":\"https://sportbar.biz/matfoot3.html/\"}", "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "25.04.2017 05:55:09", "P": 0 }
  
  
  
@@ -1042,7 +1042,7 @@
   
  
  
-{"A":"853","B":"Football 1 Ukraine HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://2.bp.blogspot.com/-WWwifq_Bvog/XDIVSUwNi6I/AAAAAAAAABw/dTDWTDWxj74z2cL68iZKFZ6GKuxIiEcjwCLcBGAs/s1600/football-1-ua.png","G":"https://08sportbar.com/ukrfoot1.html","H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"","R":"{\"Referer\":\"https://08sportbar.com/ukrfoot1.html/\"}","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"25.01.2019 00:39:23","P":0},
+{"A":"853","B":"Football 1 Ukraine HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://2.bp.blogspot.com/-WWwifq_Bvog/XDIVSUwNi6I/AAAAAAAAABw/dTDWTDWxj74z2cL68iZKFZ6GKuxIiEcjwCLcBGAs/s1600/football-1-ua.png","G":"https://sportbar.biz/ukrfoot1.html","H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"","R":"{\"Referer\":\"https://sportbar.biz/ukrfoot1.html/\"}","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"25.01.2019 00:39:23","P":0},
 
 
 
@@ -1050,16 +1050,7 @@
  
  
  
-{"A":"853","B":"Football 2 Ukraine HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://2.bp.blogspot.com/-mx9DC846Jm4/XDIVSqU4gZI/AAAAAAAAAB0/V_fLD-gby381BA8TmFMNzrS15iqfjjvkQCLcBGAs/s1600/football-2-ua.png","G":"https://08sportbar.com/football2ukraine.html","H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"","R":"{\"Referer\":\"https://08sportbar.com/football2ukraine.html/\"}","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"25.01.2019 00:39:23","P":0},
-
-
-
-
-
- 
- 
- 
-{"A":"853","B":"Sport 1 Ukraine HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://4.bp.blogspot.com/-bzR6DnMCgUA/XDIVUwLSP8I/AAAAAAAAACc/foIRa_AsiQ4EoBrmHpbJddbZpbVa2qNzQCLcBGAs/s1600/sport-1-ua.png","G":"https://08sportbar.com/sport1ukraine.html","H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"","R":"{\"Referer\":\"https://08sportbar.com/sport1ukraine.html/\"}","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"25.01.2019 00:39:23","P":0},
+{"A":"853","B":"Football 2 Ukraine HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://2.bp.blogspot.com/-mx9DC846Jm4/XDIVSqU4gZI/AAAAAAAAAB0/V_fLD-gby381BA8TmFMNzrS15iqfjjvkQCLcBGAs/s1600/football-2-ua.png","G":"https://sportbar.biz/football2ukraine.html","H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"","R":"{\"Referer\":\"https://sportbar.biz/football2ukraine.html/\"}","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"25.01.2019 00:39:23","P":0},
 
 
 
@@ -1068,7 +1059,7 @@
  
  
  
-{"A":"853","B":"Sport 2 Ukraine HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://2.bp.blogspot.com/-jTi0iDlacG0/XDIVU7CeCeI/AAAAAAAAACg/3JE1fD-Yad8X1YwDiv3qZzk_MIXzDXMtACLcBGAs/s1600/sport-2-ua.png","G":"https://08sportbar.com/sport2ukr.html","H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"","R":"{\"Referer\":\"https://08sportbar.com/sport2ukr.html/\"}","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"25.01.2019 00:39:23","P":0},
+{"A":"853","B":"Sport 1 Ukraine HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://4.bp.blogspot.com/-bzR6DnMCgUA/XDIVUwLSP8I/AAAAAAAAACc/foIRa_AsiQ4EoBrmHpbJddbZpbVa2qNzQCLcBGAs/s1600/sport-1-ua.png","G":"https://sportbar.biz/sport1ukraine.html","H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"","R":"{\"Referer\":\"https://sportbar.biz/sport1ukraine.html/\"}","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"25.01.2019 00:39:23","P":0},
 
 
 
@@ -1077,7 +1068,16 @@
  
  
  
-{"A":"853","B":"Football RU HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://1.bp.blogspot.com/-Oj8NbbWduew/XDIVVbm1NsI/AAAAAAAAACk/SXnf9dh4-YUNxPhEP-xLre19oZEJnV84gCLcBGAs/s1600/tk-football.png","G":"https://08sportbar.com/rusfootball.html","H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"","R":"{\"Referer\":\"https://08sportbar.com/rusfootball.html/\"}","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"25.01.2019 00:39:23","P":0},
+{"A":"853","B":"Sport 2 Ukraine HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://2.bp.blogspot.com/-jTi0iDlacG0/XDIVU7CeCeI/AAAAAAAAACg/3JE1fD-Yad8X1YwDiv3qZzk_MIXzDXMtACLcBGAs/s1600/sport-2-ua.png","G":"https://sportbar.biz/sport2ukr.html","H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"","R":"{\"Referer\":\"https://sportbar.biz/sport2ukr.html/\"}","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"25.01.2019 00:39:23","P":0},
+
+
+
+
+
+ 
+ 
+ 
+{"A":"853","B":"Football RU HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://1.bp.blogspot.com/-Oj8NbbWduew/XDIVVbm1NsI/AAAAAAAAACk/SXnf9dh4-YUNxPhEP-xLre19oZEJnV84gCLcBGAs/s1600/tk-football.png","G":"https://sportbar.biz/rusfootball.html","H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"","R":"{\"Referer\":\"https://sportbar.biz/rusfootball.html/\"}","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"25.01.2019 00:39:23","P":0},
 
 
 
@@ -1093,7 +1093,7 @@
   
   { "A": "1", "B": " Setanta Sport 
 
-", "C": "1", "D":"SPORTS TV", "E":"SPORTS TV", "F": "http://tivix.co/uploads/posts/2017-01/1484409831_sport.png", "G": "https://08sportbar.com/setantarus.html", "H": "defaultplayer", "I": "false", "J": "pattern", "K": "['\"]([^'\"]*m3u8[^'\"]*)['\"]", "L": "", "M": "", "R": "{\"Referer\":\"https://08sportbar.com/setantarus.html/\"}", "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "25.04.2017 05:55:09", "P": 0 }
+", "C": "1", "D":"SPORTS TV", "E":"SPORTS TV", "F": "http://tivix.co/uploads/posts/2017-01/1484409831_sport.png", "G": "https://sportbar.biz/setantarus.html", "H": "defaultplayer", "I": "false", "J": "pattern", "K": "['\"]([^'\"]*m3u8[^'\"]*)['\"]", "L": "", "M": "", "R": "{\"Referer\":\"https://sportbar.biz/setantarus.html/\"}", "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "25.04.2017 05:55:09", "P": 0 }
  
  
  
@@ -1105,7 +1105,7 @@
  
  , 
  
-   { "A": "1", "B": " Setanta Sport 2", "C": "1", "D":"SPORTS TV", "E":"SPORTS TV", "F": "http://tivix.co/uploads/posts/2017-01/1484824411_sport-plyus.png", "G": "https://08sportbar.com/seteurasiaplus.html", "H": "defaultplayer", "I": "false", "J": "pattern", "K": "['\"]([^'\"]*m3u8[^'\"]*)['\"]", "L": "", "M": "", "R": "{\"Referer\":\"https://08sportbar.com/seteurasiaplus.html/\"}", "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "25.04.2017 05:55:09", "P": 0 }
+   { "A": "1", "B": " Setanta Sport 2", "C": "1", "D":"SPORTS TV", "E":"SPORTS TV", "F": "http://tivix.co/uploads/posts/2017-01/1484824411_sport-plyus.png", "G": "https://sportbar.biz/seteurasiaplus.html", "H": "defaultplayer", "I": "false", "J": "pattern", "K": "['\"]([^'\"]*m3u8[^'\"]*)['\"]", "L": "", "M": "", "R": "{\"Referer\":\"https://sportbar.biz/seteurasiaplus.html/\"}", "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "25.04.2017 05:55:09", "P": 0 }
  
  
  
@@ -1119,7 +1119,7 @@
   
   { "A": "1", "B": " Match Arena  
 
-", "C": "1", "D":"SPORTS TV", "E":"SPORTS TV", "F": "http://tivix.co/uploads/posts/2016-05/1463601379_match-arena.png", "G": "https://08sportbar.com/rumatcharena.html", "H": "defaultplayer", "I": "false", "J": "pattern", "K": "['\"]([^'\"]*m3u8[^'\"]*)['\"]", "L": "", "M": "", "R": "{\"Referer\":\"https://08sportbar.com/rumatcharena.html/\"}", "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "25.04.2017 05:55:09", "P": 0 }
+", "C": "1", "D":"SPORTS TV", "E":"SPORTS TV", "F": "http://tivix.co/uploads/posts/2016-05/1463601379_match-arena.png", "G": "https://sportbar.biz/rumatcharena.html", "H": "defaultplayer", "I": "false", "J": "pattern", "K": "['\"]([^'\"]*m3u8[^'\"]*)['\"]", "L": "", "M": "", "R": "{\"Referer\":\"https://sportbar.biz/rumatcharena.html/\"}", "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "25.04.2017 05:55:09", "P": 0 }
  
  
  
@@ -1134,7 +1134,7 @@
  , 
   
   { "A": "1", "B": " Match TV
-", "C": "1", "D":"SPORTS TV", "E":"SPORTS TV", "F": "http://tivix.co/uploads/posts/2016-05/1463829500_match.png", "G": "https://08sportbar.com/match.html", "H": "defaultplayer", "I": "false", "J": "pattern", "K": "['\"]([^'\"]*m3u8[^'\"]*)['\"]", "L": "", "M": "", "R": "{\"Referer\":\"https://08sportbar.com/rusmatchtv.html/\"}", "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "25.04.2017 05:55:09", "P": 0 }
+", "C": "1", "D":"SPORTS TV", "E":"SPORTS TV", "F": "http://tivix.co/uploads/posts/2016-05/1463829500_match.png", "G": "https://sportbar.biz/match.html", "H": "defaultplayer", "I": "false", "J": "pattern", "K": "['\"]([^'\"]*m3u8[^'\"]*)['\"]", "L": "", "M": "", "R": "{\"Referer\":\"https://sportbar.biz/rusmatchtv.html/\"}", "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "25.04.2017 05:55:09", "P": 0 }
  
  
  
@@ -1282,7 +1282,7 @@
  
  
   
-  { "A": "1", "B": " Arena sport 1 ", "C": "1", "D":"SPORTS TV", "E":"SPORTS TV", "F": "https://sport-tv-guide.live/images/stations/a314.png", "G": "https://08sportbar.com/arena1rs.html", "H": "defaultplayer", "I": "false", "J": "pattern", "K": "['\"]([^'\"]*m3u8[^'\"]*)['\"]", "L": "", "M": "", "R": "{\"Referer\":\"https://08sportbar.com/arena1rs.html/\"}", "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "25.04.2017 05:55:09", "P": 0 }
+  { "A": "1", "B": " Arena sport 1 ", "C": "1", "D":"SPORTS TV", "E":"SPORTS TV", "F": "https://sport-tv-guide.live/images/stations/a314.png", "G": "https://sportbar.biz/arena1rs.html", "H": "defaultplayer", "I": "false", "J": "pattern", "K": "['\"]([^'\"]*m3u8[^'\"]*)['\"]", "L": "", "M": "", "R": "{\"Referer\":\"https://sportbar.biz/arena1rs.html/\"}", "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "25.04.2017 05:55:09", "P": 0 }
  
  
  
@@ -1298,24 +1298,7 @@
  
  , 
   
-  { "A": "1", "B": " Arena sport 2 ", "C": "1", "D":"SPORTS TV", "E":"SPORTS TV", "F": "https://sport-tv-guide.live/images/stations/a315.png", "G": "https://08sportbar.com/arena2sport.html", "H": "defaultplayer", "I": "false", "J": "pattern", "K": "['\"]([^'\"]*m3u8[^'\"]*)['\"]", "L": "", "M": "", "R": "{\"Referer\":\"https://08sportbar.com/arena2sport.html/\"}", "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "25.04.2017 05:55:09", "P": 0 }
- 
- 
- 
- 
- 
-  
- 
- 
-  
- 
- 
-  
- 
- 
- , 
-  
-  { "A": "1", "B": " Arena sport 3 ", "C": "1", "D":"SPORTS TV", "E":"SPORTS TV", "F": "https://sport-tv-guide.live/images/stations/a316.png", "G": "https://08sportbar.com/sportarena3rs.html", "H": "defaultplayer", "I": "false", "J": "pattern", "K": "['\"]([^'\"]*m3u8[^'\"]*)['\"]", "L": "", "M": "", "R": "{\"Referer\":\"https://08sportbar.com/sportarena3rs.html/\"}", "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "25.04.2017 05:55:09", "P": 0 }
+  { "A": "1", "B": " Arena sport 2 ", "C": "1", "D":"SPORTS TV", "E":"SPORTS TV", "F": "https://sport-tv-guide.live/images/stations/a315.png", "G": "https://sportbar.biz/arena2sport.html", "H": "defaultplayer", "I": "false", "J": "pattern", "K": "['\"]([^'\"]*m3u8[^'\"]*)['\"]", "L": "", "M": "", "R": "{\"Referer\":\"https://sportbar.biz/arena2sport.html/\"}", "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "25.04.2017 05:55:09", "P": 0 }
  
  
  
@@ -1332,7 +1315,24 @@
  
  , 
   
-  { "A": "1", "B": " Arena sport 4 ", "C": "1", "D":"SPORTS TV", "E":"SPORTS TV", "F": "https://sport-tv-guide.live/images/stations/a317.png", "G": "https://08sportbar.com/arenaserbia4.html", "H": "defaultplayer", "I": "false", "J": "pattern", "K": "['\"]([^'\"]*m3u8[^'\"]*)['\"]", "L": "", "M": "", "R": "{\"Referer\":\"https://08sportbar.com/arenaserbia4.html/\"}", "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "25.04.2017 05:55:09", "P": 0 }
+  { "A": "1", "B": " Arena sport 3 ", "C": "1", "D":"SPORTS TV", "E":"SPORTS TV", "F": "https://sport-tv-guide.live/images/stations/a316.png", "G": "https://sportbar.biz/sportarena3rs.html", "H": "defaultplayer", "I": "false", "J": "pattern", "K": "['\"]([^'\"]*m3u8[^'\"]*)['\"]", "L": "", "M": "", "R": "{\"Referer\":\"https://sportbar.biz/sportarena3rs.html/\"}", "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "25.04.2017 05:55:09", "P": 0 }
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+  
+ 
+ 
+  
+ 
+ 
+ , 
+  
+  { "A": "1", "B": " Arena sport 4 ", "C": "1", "D":"SPORTS TV", "E":"SPORTS TV", "F": "https://sport-tv-guide.live/images/stations/a317.png", "G": "https://sportbar.biz/arenaserbia4.html", "H": "defaultplayer", "I": "false", "J": "pattern", "K": "['\"]([^'\"]*m3u8[^'\"]*)['\"]", "L": "", "M": "", "R": "{\"Referer\":\"https://sportbar.biz/arenaserbia4.html/\"}", "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "25.04.2017 05:55:09", "P": 0 }
  
  
  
@@ -1350,7 +1350,7 @@
  
  , 
   
-  { "A": "1", "B": " Arena sport 5 ", "C": "1", "D":"SPORTS TV", "E":"SPORTS TV", "F": "https://sport-tv-guide.live/images/stations/a318.png", "G": "https://08sportbar.com/ar5sport.html", "H": "defaultplayer", "I": "false", "J": "pattern", "K": "['\"]([^'\"]*m3u8[^'\"]*)['\"]", "L": "", "M": "", "R": "{\"Referer\":\"https://08sportbar.com/ar5sport.html/\"}", "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "25.04.2017 05:55:09", "P": 0 }
+  { "A": "1", "B": " Arena sport 5 ", "C": "1", "D":"SPORTS TV", "E":"SPORTS TV", "F": "https://sport-tv-guide.live/images/stations/a318.png", "G": "https://sportbar.biz/ar5sport.html", "H": "defaultplayer", "I": "false", "J": "pattern", "K": "['\"]([^'\"]*m3u8[^'\"]*)['\"]", "L": "", "M": "", "R": "{\"Referer\":\"https://sportbar.biz/ar5sport.html/\"}", "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "25.04.2017 05:55:09", "P": 0 }
  
  
  , 
@@ -1674,7 +1674,7 @@
  
  
  
- , {"A":"853","B":"Sky Premier League","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a90.png","G":"https://08sportbar.com/sspl.html ","H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"","R":"{\"Referer\":\"https://08sportbar.com/sspl.html/\"}","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"25.01.2019 00:39:23","P":0}
+ , {"A":"853","B":"Sky Premier League","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a90.png","G":"https://sportbar.biz/sspl.html ","H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"","R":"{\"Referer\":\"https://sportbar.biz/sspl.html/\"}","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"25.01.2019 00:39:23","P":0}
  
  
  
@@ -1682,7 +1682,7 @@
  
   
   
- , {"A":"853","B":"Sky Sports Main Event","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a663.png","G":"https://08sportbar.com/maineventss.html ","H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"","R":"{\"Referer\":\"https://08sportbar.com/maineventss.html/\"}","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"25.01.2019 00:39:23","P":0}
+ , {"A":"853","B":"Sky Sports Main Event","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a663.png","G":"https://sportbar.biz/maineventss.html ","H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"","R":"{\"Referer\":\"https://sportbar.biz/maineventss.html/\"}","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"25.01.2019 00:39:23","P":0}
  
   
  
@@ -3232,13 +3232,13 @@
  
   
   
-  { "A": "1", "B": " Tennis Channel", "C": "1", "D":"SPORTS TV", "E":"SPORTS TV", "F": "http://ustvgo.tv/wp-content/uploads/2019/01/TennisChannel.whiteBg.png", "G": "https://08sportbar.com/itsupertennis.html",  "H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"", "R": "{\"Referer\":\"https://08sportbar.com/itsupertennis.html/\"}", "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "25.04.2017 05:55:09", "P": 0 }
+  { "A": "1", "B": " Tennis Channel", "C": "1", "D":"SPORTS TV", "E":"SPORTS TV", "F": "http://ustvgo.tv/wp-content/uploads/2019/01/TennisChannel.whiteBg.png", "G": "https://sportbar.biz/itsupertennis.html",  "H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"", "R": "{\"Referer\":\"https://sportbar.biz/itsupertennis.html/\"}", "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "25.04.2017 05:55:09", "P": 0 }
  
  
 
  , 
   
-  { "A": "1", "B": "Belarus 5 ", "C": "1", "D":"SPORTS TV", "E":"SPORTS TV", "F": "https://sport-tv-guide.live/images/stations/a1020.png", "G": "https://08sportbar.com/bel555.html", "H": "defaultplayer", "I": "false", "J": "pattern", "K": "['\"]([^'\"]*m3u8[^'\"]*)['\"]", "L": "", "M": "", "R": "{\"Referer\":\"https://08sportbar.com/\"}", "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "25.04.2017 05:55:09", "P": 0 }
+  { "A": "1", "B": "Belarus 5 ", "C": "1", "D":"SPORTS TV", "E":"SPORTS TV", "F": "https://sport-tv-guide.live/images/stations/a1020.png", "G": "https://sportbar.biz/bel555.html", "H": "defaultplayer", "I": "false", "J": "pattern", "K": "['\"]([^'\"]*m3u8[^'\"]*)['\"]", "L": "", "M": "", "R": "{\"Referer\":\"https://sportbar.biz/\"}", "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "25.04.2017 05:55:09", "P": 0 }
  
   
  
@@ -3247,7 +3247,7 @@
  , 
  
  
-   { "A": "1", "B": "QAZ Sport ", "C": "1", "D":"SPORTS TV", "E":"SPORTS TV", "F": "https://sport-tv-guide.live/images/tv-station-qaz-sport-1441.png", "G": "https://08sportbar.com/qazsportkz.html", "H": "defaultplayer", "I": "false", "J": "pattern", "K": "['\"]([^'\"]*m3u8[^'\"]*)['\"]", "L": "", "M": "", "R": "{\"Referer\":\"https://08sportbar.com/qazsportkz.html/\"}", "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "25.04.2017 05:55:09", "P": 0 }
+   { "A": "1", "B": "QAZ Sport ", "C": "1", "D":"SPORTS TV", "E":"SPORTS TV", "F": "https://sport-tv-guide.live/images/tv-station-qaz-sport-1441.png", "G": "https://sportbar.biz/qazsportkz.html", "H": "defaultplayer", "I": "false", "J": "pattern", "K": "['\"]([^'\"]*m3u8[^'\"]*)['\"]", "L": "", "M": "", "R": "{\"Referer\":\"https://sportbar.biz/qazsportkz.html/\"}", "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "25.04.2017 05:55:09", "P": 0 }
  
   
  
@@ -3303,7 +3303,7 @@
 
 
   
-    { "A": "1", "B": "Eurosport 1 ", "C": "1", "D":"SPORTS TV", "E":"SPORTS TV", "F": "https://sport-tv-guide.live/images/stations/a1419.png", "G": "https://08sportbar.com/eurosport1rus.html", "H": "defaultplayer", "I": "false", "J": "pattern", "K": "['\"]([^'\"]*m3u8[^'\"]*)['\"]", "L": "", "M": "", "R": "{\"Referer\":\"https://08sportbar.com/eurosport1rus.html/\"}", "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "25.04.2017 05:55:09", "P": 0 }
+    { "A": "1", "B": "Eurosport 1 ", "C": "1", "D":"SPORTS TV", "E":"SPORTS TV", "F": "https://sport-tv-guide.live/images/stations/a1419.png", "G": "https://sportbar.biz/eurosport1rus.html", "H": "defaultplayer", "I": "false", "J": "pattern", "K": "['\"]([^'\"]*m3u8[^'\"]*)['\"]", "L": "", "M": "", "R": "{\"Referer\":\"https://sportbar.biz/eurosport1rus.html/\"}", "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "25.04.2017 05:55:09", "P": 0 }
  
  
 
@@ -3314,7 +3314,7 @@
 
  , 
   
-  { "A": "1", "B": "Eurosport 2 ", "C": "1", "D":"SPORTS TV", "E":"SPORTS TV", "F": "https://sport-tv-guide.live/images/stations/a1420.png", "G": "https://08sportbar.com/ruseuro2.html", "H": "defaultplayer", "I": "false", "J": "pattern", "K": "['\"]([^'\"]*m3u8[^'\"]*)['\"]", "L": "", "M": "", "R": "{\"Referer\":\"https://08sportbar.com/ruseuro2.html/\"}", "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "25.04.2017 05:55:09", "P": 0 }
+  { "A": "1", "B": "Eurosport 2 ", "C": "1", "D":"SPORTS TV", "E":"SPORTS TV", "F": "https://sport-tv-guide.live/images/stations/a1420.png", "G": "https://sportbar.biz/ruseuro2.html", "H": "defaultplayer", "I": "false", "J": "pattern", "K": "['\"]([^'\"]*m3u8[^'\"]*)['\"]", "L": "", "M": "", "R": "{\"Referer\":\"https://sportbar.biz/ruseuro2.html/\"}", "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "25.04.2017 05:55:09", "P": 0 }
 
 
 ,
